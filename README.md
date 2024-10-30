@@ -41,8 +41,8 @@ will present their work during the final two class periods.
 
 - **Harbour Porpoise** (*Phocoena phocoena*): Data [here](https://doi.org/10.5061/dryad.4qrfj6qg6), paper [here](https://doi.org/10.1111/1755-0998.13860).  
 
-- **Pronghorn** (*Antilocapra americana*): Data [here](https://doi.org/10.5061/dryad.8931zcrm), paper [here](https://doi.org/10.1093/jmammal/gyaa054). 
+- **Pronghorn** (*Antilocapra americana*): Data [here](https://doi.org/10.5061/dryad.8931zcrmb), paper [here](https://doi.org/10.1093/jmammal/gyaa054). 
 
 
-- **Other***: Using the search function on [Dryad](https://datadryad.org/stash), enter queries including the term `vcf` in combination with a subject area and taxon of interest (e.g., "conservation genetics bird vcf"). This should restrict results to datasets that include a variant call format file ending in `.vcf`, which is what we will use for analyses of genetic diversity. To further filter possible projects, make sure that the README file includes sufficient information, and that you can easily find the associated paper, either through a Google search of the title of the project, or via a link on the right-hand side of its landing page. In general, datasets with <10,000 SNPs will be easier to work with. 
+- **Other**: Using the search function on [Dryad](https://datadryad.org/stash), enter queries including the term `vcf` in combination with a subject area and taxon of interest (e.g., "conservation genetics bird vcf"). This should restrict results to datasets that include a variant call format file ending in `.vcf`, which is what we will use for analyses of genetic diversity. To further filter possible projects, make sure that the README file includes sufficient information, and that you can easily find the associated paper, either through a Google search of the title of the project, or via a link on the right-hand side of its landing page. In general, datasets with <10,000 SNPs will be easier to work with. 
 
