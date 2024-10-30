@@ -12,24 +12,37 @@ will present their work during the final two class periods.
 
 - **Kokanee Salmon** (*Oncorhynchus nerka*): Data [here](https://doi.org/10.5061/dryad.ffbg79cvz), paper [here](https://doi.org/10.1007/s10592-021-01418-2).
 
+- **Lake Trout** (*Salvelinus namaycush*): Data [here](https://doi.org/10.5061/dryad.2b8f1), paper [here](https://doi.org/10.1111/mec.14361). 
+
 - **Great Grey Owl** (*Strix nebulosa*): Data [here](https://doi.org/10.5061/dryad.1rn8pk0qm), paper [here](https://doi.org/10.1007/s10592-020-01280-8).
 
 - **Allen's Hummingbird** (*Selasphorus sasin*): Data [here](https://doi.org/10.5061/dryad.zgmsbcc84), paper [here](https://doi.org/10.1007/s10592-020-01303-4).
 
+- **Emperor penguins** (*Aptenodytes forsteri*): Date [here](https://doi.org/10.5061/dryad.4s7t3), paper [here](https://doi.org/10.1111/mec.14172).  
 
 - **Dwarf Lake Iris** (*Iris lacustrus*): Data [here](https://doi.org/10.5061/dryad.xwdbrv1jh), paper [here](https://doi.org/10.3390/plants12132557).
 
 
  - **Movaje Milkweed** (*Asclepias nyctaginifolia*): Data [here](https://doi.org/10.5061/dryad.59zw3r28c), paper [here](https://doi.org/10.1111/csp2.12987).
 
+ - **El Dorado County Mule Ears** (*Wyethia reticulata*): Data [here](https://doi.org/10.5061/dryad.n02v6wwt2), paper [here](https://doi.org/10.3120/0024-9637-67.2.65).
+
 
  - **Alligator Snapping Turtles** (*Macrochelys* spp.): Data [here](https://doi.org/10.7291/D17H67), paper [here](https://doi.org/10.1656/058.022.0sp1201).
 
- - **Eastern Massasauga Rattlesnake** (*Sistrurus catenatus*): Data [here](https://doi.org/10.5061/dryad.hmgqnk9mf), paper [here](https://doi.org/10.1002/eap.2793).
+ - **Eastern Massasauga Rattlesnake** (*Sistrurus catenatus*): Data [here](https://doi.org/10.5061/dryad.hmgqnk9mf), paper [here](https://doi.org/10.1002/eap.2793). 
+
+ - **Western Rattlesnake** (*Crotalus oreganus*): Data [here](https://doi.org/10.5061/dryad.fbg79cns4), paper [here](https://doi.org/10.1111/1755-0998.13090). 
+
 
 - **Alpine Ibex / domestic goat hybrids** (*Capra ibex* x *hircus*): Data [here](https://doi.org/10.5061/dryad.qnk98sfrp), paper [here](https://doi.org/10.1111/eva.13761).  
 
-- **Hawaiian Monk seals** (*Monachus schauinslandi*): Data [here](https://doi.org/10.5061/dryad.djh9w0w72), paper [here](https://doi.org/10.3354/esr01308).  
+- **Hawaiian Monk Seal** (*Monachus schauinslandi*): Data [here](https://doi.org/10.5061/dryad.djh9w0w72), paper [here](https://doi.org/10.3354/esr01308).  
+
+- **Harbour Porpoise** (*Phocoena phocoena*): Data [here](https://doi.org/10.5061/dryad.4qrfj6qg6), paper [here](https://doi.org/10.1111/1755-0998.13860).  
+
+- **Pronghorn** (*Antilocapra americana*): Data [here](https://doi.org/10.5061/dryad.8931zcrm), paper [here](https://doi.org/10.1093/jmammal/gyaa054). 
+
 
 - **Other***: Using the search function on [Dryad](https://datadryad.org/stash), enter queries including the term `vcf` in combination with a subject area and taxon of interest (e.g., "conservation genetics bird vcf"). This should restrict results to datasets that include a variant call format file ending in `.vcf`, which is what we will use for analyses of genetic diversity. To further filter possible projects, make sure that the README file includes sufficient information, and that you can easily find the associated paper, either through a Google search of the title of the project, or via a link on the right-hand side of its landing page. In general, datasets with <10,000 SNPs will be easier to work with. 
 
