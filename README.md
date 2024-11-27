@@ -53,7 +53,7 @@ Before beginning, make sure you have downloaded and installed the following soft
 
 ## Instructions 
 
-*Note: BIOB480/BIO548 students will run analyses on MSU's [Tempest HPC](https://www.montana.edu/uit/rci/tempest/) Web interfaces. The following instructions are provided for local installation; they may not be error-free.*
+*Note: BIOB480/BIO548 students will access JupyterLab through MSU's [Tempest HPC](https://www.montana.edu/uit/rci/tempest/) Web interface. The following instructions are for installing the necessary software and packages locally.*
 
 1) Download SNP data from the study of your choice as a gzipped VCF file and label it in the format `species.vcf.gz`. 
 
