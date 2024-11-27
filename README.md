@@ -55,9 +55,11 @@ Before beginning, make sure you have downloaded and installed the following soft
 
 *Note: BIOB480/BIO548 students will access JupyterLab through MSU's [Tempest HPC](https://www.montana.edu/uit/rci/tempest/) Web interface. The following instructions are for installing the necessary software and packages locally.*
 
-1) Download SNP data from the study of your choice as a gzipped VCF file and label it in the format `species.vcf.gz`. 
+1) Download SNP data from the study of your choice as a gzipped VCF file and name it in the format `species.vcf.gz`. 
 
-2) Open Terminal. Navigate to the directory you want to work in and clone this repository (e.g. `cd coursework; git clone https://github.com/elinck/conservation_genetics.git`). Inside the cloned repository, creat subdirectory labeled `data/` (e.g., `cd conservation_genetics; mkdir data`). Move your VCF file into this subdirectory (`mv species.vcf.gz data/.`). 
+2) Open Terminal. Navigate to the directory you want to work in and clone this repository (e.g. `cd coursework; git clone 
+https://github.com/elinck/conservation_genetics.git`). Inside the cloned repository, create a subdirectory named `data/` (e.g., `cd conservation_genetics; 
+mkdir data`). Move your VCF file into this subdirectory (`mv species.vcf.gz data/.`). 
 
 3) Enter the following commands to install the necessary Python packages, install JupyterLab, create and activate a `mamba` environment with the necessary dependencies, and open the JupyterLab file to run analyses: 
 
