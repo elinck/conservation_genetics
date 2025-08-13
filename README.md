@@ -1,10 +1,17 @@
 # BIOB480 / BIOE548: Conservation Genetics
 
-This [GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) is home to the data and code for 
-end-of-semester projects in BIOB480 / BIOE548 in the Department of Ecology at Montana State University. Students work in groups of 3-5 to analyze empirical genetic or genomic data from a population of wild plants or animals. Specifically, each group will select a published dataset and population 
+This [GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) is home to 
+
+## Class Notes
+
+Lecture notes are provided in the `notes/` subdirectory in chronological order.  
+
+## Final Projects
+
+During the final third of the semester, students work together in groups of 3-5 to analyze empirical genetic or genomic data from a population of wild plants or animals. Specifically, each group will select a published dataset and population 
 genetic metric, read the associated scientific article, load the data into a Jupyter Notebook, and perform simple analyses using the Python package [scikit-allel](https://scikit-allel.readthedocs.io/en/stable/index.html). Learning outcomes include gaining familiarity with Python and scriptable anlayses of genomic data more broadly, learning how sequence data and genotypes are encoded into data objects.  All groups will present their work during final two class period. 
 
-## Potential Datasets
+### Potential Datasets
 
 - **Alvord Chub** (*Siphateles alvordensis*): Data [here](https://doi.org/10.5061/dryad.ct362tv), paper [here](https://doi.org/10.1007/s10592-019-01148-6).
 
@@ -43,7 +50,7 @@ genetic metric, read the associated scientific article, load the data into a Jup
 
 - **Other**: Using the search function on [Dryad](https://datadryad.org/stash), enter queries including the term `vcf` in combination with a subject area and taxon of interest (e.g., "conservation genetics bird vcf"). This should restrict results to datasets that include a variant call format file ending in `.vcf`, which is what we will use for analyses of genetic diversity. To further filter possible projects, make sure that the README file includes sufficient information, and that you can easily find the associated paper, either through a Google search of the title of the project, or via a link on the right-hand side of its landing page. In general, datasets with <10,000 SNPs will be easier to work with. 
 
-## Requirements
+### Requirements
 
 Before beginning, make sure you have downloaded and installed the following software: 
 
@@ -51,7 +58,7 @@ Before beginning, make sure you have downloaded and installed the following soft
 - [Python 3+](https://www.python.org/downloads/)
 - [Mamba](https://mamba.readthedocs.io/en/latest/)
 
-## Instructions 
+### Instructions 
 
 *Note: BIOB480/BIO548 students will access JupyterLab through MSU's [Tempest HPC](https://www.montana.edu/uit/rci/tempest/) Web interface. The following instructions are for installing the necessary software and packages locally.*
 
