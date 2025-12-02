@@ -1,6 +1,9 @@
 # BIOB480 / BIOE548: Conservation Genetics
 
-This [GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) is home to 
+This [GitHub 
+repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) 
+is home to materials for MSU's  BIOB480 / BIOE 548: Conservation Genetics 
+class.  
 
 ## Class Notes
 
@@ -8,8 +11,7 @@ Lecture notes are provided in the `notes/` subdirectory in chronological order.
 
 ## Final Projects
 
-During the final third of the semester, students work together in groups of 3-5 to analyze empirical genetic or genomic data from a population of wild plants or animals. Specifically, each group will select a published dataset and population 
-genetic metric, read the associated scientific article, load the data into a Jupyter Notebook, and perform simple analyses using the Python package [scikit-allel](https://scikit-allel.readthedocs.io/en/stable/index.html). Learning outcomes include gaining familiarity with Python and scriptable anlayses of genomic data more broadly, learning how sequence data and genotypes are encoded into data objects.  All groups will present their work during final two class period. 
+Text to come.
 
 ### Potential Datasets
 
