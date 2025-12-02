@@ -1,17 +1,15 @@
 # BIOB480 / BIOE548: Conservation Genetics
 
-This [GitHub 
-repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) 
-is home to materials for MSU's  BIOB480 / BIOE 548: Conservation Genetics 
-class.  
+This [GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) is home to materials for MSU's  BIOB480 / BIOE 548: Conservation Genetics class.  
 
 ## Class Notes
 
 Lecture notes are provided in the `notes/` subdirectory in chronological order.  
 
-## Final Projects
+## Lab Activities and Final Projects
 
-Text to come.
+As a complement to lectures, quizzes, and problem sets---all of which emphasize the fundamentals of population genetics theory with examples from the conservation biology literature--we spend three class periods learning how to perform basic manipulations and analyses of genotype data in `Python`. To do so, we work from three Jupyter notebooks, found in the `scripts/` subdriectory, where we learn the fundamentals of `Python` scripting (including performing simple arithmetic and writing functions; `01_intro_python.ipnyb`), learn basic data structures and functions from the [`scikit-allel` library](https://scikit-allel.readthedocs.io/en/stable/) (`02_intro_scikit-allel.ipnyb`), and then apply our knowledge to a graded final project, where we analyze empirical variant data from a species of conservation concern (see **Potential Datasets** below) (`03_final_project.ipynb`). 
+
 
 ### Potential Datasets
 
@@ -25,7 +23,7 @@ Text to come.
 
 - **Allen's Hummingbird** (*Selasphorus sasin*): Data [here](https://doi.org/10.5061/dryad.zgmsbcc84), paper [here](https://doi.org/10.1007/s10592-020-01303-4).
 
-- **Emperor penguins** (*Aptenodytes forsteri*): Date [here](https://doi.org/10.5061/dryad.4s7t3), paper [here](https://doi.org/10.1111/mec.14172).  
+- **Emperor Penguins** (*Aptenodytes forsteri*): Date [here](https://doi.org/10.5061/dryad.4s7t3), paper [here](https://doi.org/10.1111/mec.14172).  
 
 - **Dwarf Lake Iris** (*Iris lacustrus*): Data [here](https://doi.org/10.5061/dryad.xwdbrv1jh), paper [here](https://doi.org/10.3390/plants12132557).
 
