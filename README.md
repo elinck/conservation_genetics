@@ -4,11 +4,13 @@ This [GitHub repository](https://docs.github.com/en/repositories/creating-and-ma
 
 ## Class Notes
 
-Lecture notes are provided in the `notes/` subdirectory in chronological order.  
+Notes from lectures are available as a [web book 
+here](https://elinck.org/popgen_congen_notes/). 
 
 ## Lab Activities and Final Projects
 
-As a complement to lectures, quizzes, and problem sets---all of which emphasize the fundamentals of population genetics theory with examples from the conservation biology literature--we spend three class periods learning how to perform basic manipulations and analyses of genotype data in `Python`. To do so, we work from three Jupyter notebooks, found in the `scripts/` subdriectory, where we learn the fundamentals of `Python` scripting (including performing simple arithmetic and writing functions; `01_intro_python.ipnyb`), learn basic data structures and functions from the [`scikit-allel` library](https://scikit-allel.readthedocs.io/en/stable/) (`02_intro_scikit-allel.ipnyb`), and then apply our knowledge to a graded final project, where we analyze empirical variant data from a species of conservation concern (see **Potential Datasets** below) (`03_final_project.ipynb`). 
+As a complement to lectures, quizzes, and problem sets---all of which 
+emphasize the fundamentals of population genetics theory with examples from the conservation biology literature---we spend three class periods learning how to perform basic manipulations and analyses of genotype data in `Python`. To do so, we work from three Jupyter notebooks, found in the `scripts/` subdriectory, where we learn the fundamentals of `Python` scripting (including performing simple arithmetic and writing functions; `01_intro_python.ipnyb`), learn basic data structures and functions from the [`scikit-allel` library](https://scikit-allel.readthedocs.io/en/stable/) (`02_intro_scikit-allel.ipnyb`), and then apply our knowledge to a graded final project, where we analyze empirical variant data from a species of conservation concern (see **Potential Datasets** below) (`03_final_project.ipynb`). 
 
 
 ### Potential Datasets
