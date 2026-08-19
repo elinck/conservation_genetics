@@ -1,0 +1,45 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Homework #2
+
+Name: ________________________       
+                                                                                                                                                              
+1) A member of the Bozeman Gardener’s Club becomes interested in identifying the best variety of wild raspberry for the local climate. She obtains seeds from plants growing at 3000’ (near Missoula), at 4800’ (from Story Mill Park), at 7800’ (in Yellowstone), and at under 100’ (from her sister in Seattle). She then plants them in raised beds in her home near Cooper Park, also at 4800’. The next August she discovers that the Missoula clipping is now 25 cm tall, the Story Mill clipping is 29.5 cm, the Yellowstone clipping is 22 cm tall, and the Seattle clipping is 17 cm tall.
+
+a. Calculate the variance and standard deviation of wild raspberry height from this sample.
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+b. The gardener continues to cultivate her raspberry plants and eventually collects seeds from each, which she raises into new plants to give away to her son, who is starting a nursery in Belgrade. The son raises the seeds into adult plants, growing them at a similar elevation and in similar conditions to those of their parents. If the offspring of the Missoula plant grows to be 24.5 cm tall, the offspring of the Story Mill plant 29.3 cm tall, the offspring of the Yellowstone plant 23 cm tall, and the offspring of the Seattle plant 19 cm tall, does height appear to be heritable? Justify your answer by calculating h2 for wild raspberry height. (You may either apply equations from the class directly or use a graphing program.)
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+c. Bonus: Given no other information than appears above, do genotypes appear to be adapted to their local environment (elevation)? Why or why not?
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+2) A laboratory studying the fruit fly *Drosophila melanogaster* has identified an allele with a substantial effect on the number of sternopleural bristles. The allele is currently found in the lab’s experimental population at a frequency of 20%. Individuals that are homozygous for this allele have on average 3 more bristles compared to heterozygotes. Heterozygotes have 5 more bristles compared to individuals who are homozygous for the alternate allele, who have an average of 7 bristles.
+
+a. Determine the genotype values for bristle number. Is inheritance at this locus dominant, partially dominant, additive, or codominant?
+
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+b. How does the number of bristles the heterozygote has compare to the average of the two homozygotes?
+
+&nbsp;  
+&nbsp;  
+&nbsp;   

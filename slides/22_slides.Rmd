@@ -1,0 +1,56 @@
+---
+output: beamer_presentation
+header-includes: 
+fontsize: 11pt  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(fig.width=3.5, fig.height=2.5) 
+```
+
+## Mills & Allendorf 1996  
+
+1) What is the One-Migrant-per-Generation (OMpG) Rule intended to achieve?
+
+2) Why is the OMpG independent of population size?  
+
+3) Which of its assumptions do you think are most frequently violated in nature?
+
+4) What is the take-home message from each figure? 
+
+## Mills & Allendorf 1996
+
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/fig1mills.png}
+\end{figure}  
+
+## Mills & Allendorf 1996
+
+\begin{figure}
+\includegraphics[width = 0.4\linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/fig2mills.png}
+\end{figure}  
+
+## Mills & Allendorf 1996
+
+\begin{figure}
+\includegraphics[width = 0.8\linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/fig3mills.png}
+\end{figure}  
+
+## driftR again
+
+link: https://cjbattey.shinyapps.io/driftR/
+
+\begin{figure}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/driftr.png}
+\end{figure}  
+
+## driftR again
+
+1) Leave "Starting allele frequency A" set to 0.1, 0.9. Set all fitnesses to 1, the Mutation Rate to 0, the Number of Populations to 2, and Number of Generations to 100. This time, plot $F_{ST}$ instead of $p$ alone (alternatively, you can plot $F_{ST}$ as well as other summary statistics of your choice). Run simulations for $Nm$ values of 0.1, 1, and 10. What do you observe? Can you reproduce the theoretical expectations of OMpG? 
+
+
+
+
+
+

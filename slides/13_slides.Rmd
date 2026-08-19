@@ -1,0 +1,119 @@
+---
+output: beamer_presentation
+header-includes: 
+fontsize: 11pt  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Population Bottlenecks 
+
+\begin{figure}
+\includegraphics[width = 0.9\linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/mexiwolves.png}
+\end{figure}  
+
+([image courtesy USFWS](https://www.fws.gov/media/mexican-wolves-and-legacy-genetic-bottleneck-and-founder-effect))
+
+## Mexican Wolves
+
+\begin{figure}
+\includegraphics[width = 0.9\linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/mexiwolves_2.jpeg}
+\end{figure}  
+
+## Mexican Wolves
+
+**Loss of heterozygosity:**
+
+$$
+\frac{H1}{H0} = 1 - \frac{1}{2N}
+$$
+
+## Mexican Wolves
+
+**Loss of heterozygosity:**
+
+$$
+\frac{H_1}{H_0} = 1 - \frac{1}{2* \text{3 wolves}} = 0.8333
+$$
+
+## Mauritius Kestrels
+
+\begin{figure}
+\includegraphics[width = 0.9\linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/kestrel.png}
+\end{figure}  
+
+## Mauritius Kestrels
+
+**Loss of heterozygosity:**
+
+$$
+\frac{H_1}{H_0} = 1 - \frac{1}{2* \text{4 kestrels}} = 0.875
+$$
+
+## Luikart and Cornuet
+
+**Infinite Alleles Model**: Assumes that 1) there are a large enough number of alleles that any mutation would lead to a different allele (i.e., the probability of back mutation to the original allele would be low enough to be negligible); and 2) that the mutations would result in a number of different fitness outcomes (from neutral to deleterious).
+
+**Stepwise Mutation Model**: For repetitive regions of the genome like microsatellites. Assumes that 1) repeates will increase or decrease by a single unit at a fixed rate; 2 random mating; and 3) that all alleles are selectively equivalent for each locus. 
+
+## Luikart and Cornuet 1998
+
+1) What type paper is this? What are their goals?
+
+2) What do they mean by "Heterozygosity Excess"? Why don't rare alleles contribute much to heterozygosity?
+
+3) Examine Figure 2. Do Brooks Range brown bears or Epping Forest wombats appear to have experienced a more severe bottleneck? 
+
+## Luikart and Cornuet 1998 
+
+\begin{figure}
+\includegraphics[width = 0.8\linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/lc1.png}
+\end{figure}  
+
+(Figure 1)
+
+## Luikart and Cornuet 1998 
+
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/lc2.png}
+\end{figure}  
+
+(Figure 2a)
+
+## Luikart and Cornuet 1998 
+
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/lc3.png}
+\end{figure}  
+
+(Figure 2b)
+
+## Genetic Drift Simulations
+
+link: https://cjbattey.shinyapps.io/driftR/
+
+\begin{figure}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/driftr.png}
+\end{figure}  
+
+## Genetic Drift Activity
+
+1) Orient yourself. What are the axes? What variables can you change? What does the plot display when you click "Run Simulation"?  
+
+2) Set "Starting allele frequency A" to 0.5 (instead of two values, as is default). Set all fitnesses to 1, the Migration Rate to 0, the Number of Populations to 10, and Number of Generations to 100. Make sure you are plotting "p" alone. Run simulations for population sizes of 10, 100, 1000, and 10,000. What pattern do you observe? What does it mean when a colored line hits the top of the graph? What does it mean when a colored line hits the bottom of the graph? 
+
+3) Repeat the process in 2 but setting the fitness of one of the homozygotes to a value between 0.01 and 0.5. What do you observe?  
+
+4) Develop a question to address with the driftR. 
+
+
+
+
+
+
+
+
+
+

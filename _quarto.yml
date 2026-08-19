@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!assignments/"
+    - "!papers/"
+    - "!practice/"
+    - "!popgen_congen_notes/"
+
+website:
+  title: "BIOB480/BIOE538: Conservation Genetics"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+
+format:
+  html:
+    theme: default
+    css: styles.css
+

@@ -1,0 +1,46 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Homework #1
+
+Name: ________________________       
+                                                                                                                                                                                   
+
+1)	Explain why Hardy-Weinberg Equilibrium and Linkage Equilibrium can both be considered null models.  
+
+
+2) Ten individuals from a population of Great Gray Spotted Sedge (*Arctopsyche grandis*) is genotyped at two diallelic loci, $A$ and $B$. In the resulting sample, five individuals are homozygous for the haplotype $A_1B_1$ and five individuals are homozygous for the haplotype $A_2B_2$. Are $A$ and $B$ linked? Why or why not?  
+
+3)	 A graduate student in the Department of Ecology genotypes 400 Ferruginous Hawks in Oregon (“Pop 1”) and 400 Ferruginous Hawks east of the Continental Divide in Montana (“Pop 2”). In Pop 1 they find 324 birds are homozygous recessive, 72 birds are heterozygous, and 4 birds are homozygous dominant. In Pop 2 they find 196 birds are homozygous recessive, 168 birds are heterozygous, and 36 birds are homozygous dominant. Determine the total number of $A$ and $a$ alleles in each subpopulation, as well as their relative frequencies. Next, pool the allele counts for Pop 1 and Pop 2 and do the same for the “global” population of hawks in the study (i.e., treat all hawks as belonging to the same population).  
+ 
+a.	What are the expected genotype frequencies of Pop 1 under HWE?   
+
+&nbsp; 
+\hfill  $f(AA)$ = ______ \hfill 				    $f(Aa)$ = ______ \hfill 			            	$f(aa)$ = ______  \hfill
+
+&nbsp;  
+
+b.	What are the expected genotype frequencies of Pop 2 under HWE?   
+
+&nbsp; 
+\hfill  $f(AA)$ = ______ \hfill 				    $f(Aa)$ = ______ \hfill 			            	$f(aa)$ = ______  \hfill
+
+&nbsp;  
+
+c.	What are the expected genotype frequencies of the global population under HWE?   
+
+&nbsp; 
+\hfill  $f(AA)$ = ______ \hfill 				    $f(Aa)$ = ______ \hfill 			            	$f(aa)$ = ______  \hfill
+
+&nbsp;  
+
+d.	Is Pop 1 currently under HWE?* \hfill   	(YES   /   NO)   
+Is Pop 2 currently under HWE?* 		\hfill 						            (YES   /   NO)  
+Is the global population currently in HWE?* \hfill 					   		(YES   /   NO)  
+
+    \* *don't worry about performing a $\chi^2$ test!*

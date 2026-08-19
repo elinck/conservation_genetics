@@ -1,0 +1,163 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# BIOB480 / BIOE548: Conservation Genetics
+
+**Course:** BIOB480 / BIOE548 (3 Credits)  
+**Prerequisite:** A solid grasp of the basics of evolution, statistics, and genetics  
+**Meeting Time:** T/TR 10:50 AM - 12:05 PM  
+**Place:** 201 Reid Hall  
+**Instructor:** Dr. Ethan Linck (ethan.linck\@montana.edu; 406-994-2024)  
+**Office Hours:** Wednesday 12:30-3:30 PM; by appointment as available    
+**Materials:** A laptop (tablets will not suffice)  
+
+## Catalog Description
+
+Introduces the theory and practice of conservation genetics, focusing primarily on animals. Case studies will be used liberally, and emphasis will be placed on interpreting genetic data. Readings will include primary literature.
+
+## Overview
+
+Conservation genetics is a relatively young discipline that merges population and evolutionary genetics with conservation biology. It aims to delimit the basic units of biological conservation and understand how their genetic composition is affected by habitat loss, exploitation, and environmental change. This course provides an introduction to its theory and practice. We will work through important concepts in conservation genetics, pairing a survey of foundational mathematical models with empirical examples and reviews from the primary literature. Coursework will include problem sets that will require students to interpret genetic data and use quantitative reasoning, regular discussion of scientific articles, and analysis of genetic data with a programming language.
+
+## Course Organization and Format
+
+Each day will include a mix of lecture / demonstration, discussion, and independent or group work on problem sets or other activities. Our subject will cover material you are expected to have read prior to class. On four occasions throughout the semester, part of class will be devoted to quizzes to assess understanding. We will finish the semester with group presentations on a research topic of interest, to be selected in October.
+
+## Textbook
+
+Your primary study materials are a set of free, open-source notes I have developed over the past few years of teaching, [available online](https://elinck.org/popgen_congen_notes/) and as a [downloadable pdf via GitHub](https://github.com/elinck/popgen_congen_notes/blob/main/Fundamentals-of-Population-and-Conservation-Genetics.pdf). The traditional textbook for the course was *Introduction to Conservation Genetics, 2nd Ed.*, by Frankham, Ballou, & Briscoe, which I also recommend; it is available through the MSU Bookstore.
+
+## Learning Outcomes
+
+- Explain the relevance of evolutionary genetics to conservation;
+- Describe the biological basis of foundational population genetics models, and what their major features tell us;
+- Apply population genetics models to case studies and interpret their output; 
+- Discuss scientific papers;
+- Apply Python code to genetic data. 
+
+## Grading
+
+Your grade will be calculated as the fraction of points earned out of a total of 250. 80 points will come from eight 10-point homework assignments; another 100 from four short quizzes and the final exam (with your lowest score dropped); 25 points from submitting short questions related to primary literature reading assignments; 25 points for participation, attendance, and engagement; and 20 points from your final project. Any quiz can be revised and turned in a second time to earn back up to 50% of missed credit.
+
+## Schedule
+
+This is a maximalist version of the course syllabus. Expect material to be cut, not added. Slides and practice problems will be added throughout the semester.
+
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| Week                | Topics                                  | Assignments                                                                                         |
++=====================+=========================================+=====================================================================================================+
+| 8/24 - 8/28         | - Syllabus, History, Assessment         | - [A Brief History of Conservation Genetics (T)](https://elinck.org/popgen_congen_notes/intro.html) |
+|                     |                                         | - [Assessment (due 8/31)](assignments/assessment.pdf)                                               |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 8/31 - 9/4          | - Intro to Vocab and Topics             | - [How do we study genetic diversity? (T)](https://elinck.org/popgen_congen_notes/diversity.html)   |
+|                     | - Genetic Diversity                     | - [Corbin et al. 1974 (TR)](papers/corbin_et_al_1974.pdf)                                           |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 9/7 - 9/11          | - Hardy Weinberg Principle              | - [Hardy-Weinberg Principle (T)](https://elinck.org/popgen_congen_notes/hwe.html)                   |
+|                     |                                         | - [Schmutz & Schmutz 1981 (TR)](papers/schmutz_schmutz_1981.pdf)                                    |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 9/14 - 9/18         | - Linkage Disequilibrium                | - [Linkage Disequilibrium (T)](https://elinck.org/popgen_congen_notes/ld.html)                      |
+|                     |                                         | - [Homework #1 (due 9/22)](assignments/homework_1.pdf)                                              |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 9/21 - 9/25         | - Quantitative Genetics                 | - [Quantitative Genetics (T)](https://elinck.org/popgen_congen_notes/quant.html)                    |
+|                     |                                         | - [Homework #2 (due 9/29)](assignments/homework_2.pdf)                                              |
+|                     |                                         | - **Quiz #1** (9/24; *History* through *Linkage Disequilibrium*)                                    |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 9/28 - 10/2         | - Natural Selection                     | - [Natural Selection (T)](https://elinck.org/popgen_congen_notes/selection.html)                    |
+|                     |                                         | - [Homework #3 (due 10/6)](assignments/homework_3.pdf)                                              |
+|                     |                                         | - [Nachman et al. 2003 (TR)](papers/nachman_et_al_2003.pdf)                                         |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 10/5 - 10/9         | - Migration and Mutation Equilibria     | - [Mutation, migration, & selection (T)](https://elinck.org/popgen_congen_notes/more_selection.html)|
+|                     |                                         | - [Homework #4 (due 10/13)](assignments/homework_4.pdf)                                             |
+|                     |                                         | - [Cheviron & Brumfield 2009 (TR)](papers/cheviron_brumfield_2009.pdf)                              |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 10/12 - 10/16       | - Genetic Drift                         | - [Genetic Drift (T)](https://elinck.org/popgen_congen_notes/drift.html)                            |
+|                     |                                         | - [Homework #5 (due 10/20)](assignments/homework_5.pdf)                                             |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 10/19 - 10/23       | - Intro to Data Analysis                | - [Intro to Python](https://github.com/elinck/conservation_genetics/tree/main/scripts)              |
+|                     |                                         | - **Quiz #2** (10/22; *Quantitative Genetics* through *Equilibria*)                                 |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 10/26 - 10/30       | - Effective Pop. Size ($N_e$)           | - [Effective Population Size (T)](https://elinck.org/popgen_congen_notes/ne.html)                   |
+|                     |                                         | - [The Coalescent (TR)](https://elinck.org/popgen_congen_notes/coalescent.html)                     |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 11/2 - 11/6         | - Inbreeding and its consequences       | - [Inbreeding and Inbreeding Depression (T)](https://elinck.org/popgen_congen_notes/inbreeding.html)|
+|                     |                                         | - [Homework #6 (due 11/10)](assignments/homework_6.pdf)                                             |
+|                     |                                         | - [Intro to `scikit-allel`](https://github.com/elinck/conservation_genetics/tree/main/scripts)      |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 11/9 - 11/13        | - Population subdivision                | - [Population Subdivision (T)](https://elinck.org/popgen_congen_notes/fst.html)                     |
+|                     |                                         | - [Homework #7](assignments/homework_7.pdf)                                                         |
+|                     |                                         | - [Mills & Allendorf 1996 (TR)](papers/mills_allendorf_1996.pdf)                                    |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 11/16 - 11/20       | - Genetic Viability                     | - [Genetic Viability (T)](https://elinck.org/popgen_congen_notes/viability.html)                    |
+|                     |                                         | - **Quiz #3** (11/19; *$N_e$* through *Inbreeding*)                                                 |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 11/23 - 11/27       | - Fall Break                            |                                                                                                     |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 11/30 - 12/4        | - Conservation Units                    | - [Taxonomy, Systematics, and Management Units](https://elinck.org/popgen_congen_notes/units.html)  |
+|                     |                                         | - [Funk et al. 2012](papers/funk_et_al_2012.pdf)                                                    |
+|                     |                                         | - [Final Project (due 12/17)](https://github.com/elinck/conservation_genetics/tree/main/scripts)    |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 12/7 - 12/11        | - Hybridization                         | - [Hybridization](https://elinck.org/popgen_congen_notes/hybridization.html)                        |
+|                     |                                         | - [Homework #8 (due 12/14)](assignments/homework_8.pdf)                                             |
+|                     |                                         | - [Allendorf et al. 2004](papers/allendorf_et_al_2004.pdf)                                          |
+|                     |                                         | - [Campton & Kaeding 2005](papers/campton_kaeding_2005.pdf)                                         |
+|                     |                                         | - **Quiz #4** (12/10; *Subdivision* through *Hybridization*)                                        |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+| 12/14 - 12/18       | - Exam Week                             | - **Final Exam** (12/15, 1000-1150 hrs)                                                             |
++---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
+
+## Reading List
+
+1) Corbin, K. W., Sibley, C. G., Ferguson, A., Wilson, A. C., Brush, A. H., & Ahlquist, J. E. (1974). Genetic polymorphism in New Guinea starlings of the genus Aplonis. The Condor, 76(3), 307-318.
+
+2) Schmutz, S. M., & Schmutz, J. K. (1981). Inheritance of color phases of ferruginous hawks. The Condor, 83(2), 187-189.
+
+3) Nachman, M. W., Hoekstra, H. E., & D'Agostino, S. L. (2003). The genetic basis of adaptive melanism in pocket mice. Proceedings of the National Academy of Sciences, 100(9), 5268-5273.
+
+4) Cheviron, Z. A., & Brumfield, R. T. (2009). Migration-selection balance and local adaptation of mitochondrial haplotypes in rufous-collared sparrows (Zonotrichia capensis) along an elevational gradient. Evolution, 63(6), 1593-1605.
+
+5) Luikart, G., & Cornuet, J. M. (1998). Empirical evaluation of a test for identifying recently bottlenecked populations from allele frequency data. Conservation Biology, 12(1), 228-237.
+
+6) Miller, C. R., & Waits, L. P. (2003). The history of effective population size and genetic diversity in the Yellowstone grizzly (Ursus arctos): implications for conservation. Proceedings of the National Academy of Sciences, 100(7), 4334-4339.
+
+7) Keller, L. F., Arcese, P., Smith, J. N., Hochachka, W. M., & Stearns, S. C. (1994). Selection against inbred song sparrows during a natural population bottleneck. Nature, 372(6504), 356-357.
+
+8) Mills, L. S., & Allendorf, F. W. (1996). The one-migrant-per-generation rule in conservation and management. Conservation Biology, 10(6), 1509-1518.
+
+9) Funk, W. C., McKay, J. K., Hohenlohe, P. A., & Allendorf, F. W. (2012). Harnessing genomics for delineating conservation units. Trends in Ecology & Evolution, 27(9), 489-496.
+
+10) Allendorf, F. W., Leary, R. F., Hitt, N. P., Knudsen, K. L., Lundquist, L. L., & Spruell, P. (2004). Intercrosses and the US Endangered Species Act: should hybridized populations be included as westslope cutthroat trout?. Conservation Biology, 18(5), 1203-1213.
+
+11) Campton, D. E., & Kaeding, L. R. (2005). Westslope cutthroat trout, hybridization, and the US Endangered Species Act. Conservation Biology, 19(4), 1323-1325.
+
+## Drop / Add Policy
+
+MSU's registration processes can be found on the Registrar's website. September 3rd is the last day to drop online; September 10th is the last day to drop without a 'W' on your transcript; November 12th is the last day to drop with a 'W' on your transcript.
+
+## Generative AI
+
+Any work produced by generative AI cannot be submitted as your own. I will not spend extensive time policing this---the loss is primarily yours---but if detected, I will consider it academic misconduct. If you find yourself drawn to use generative AI as a study aid, I urge you to exercise caution, less because it is incapable of doing the work (it isn't) than because quizzes and exams must be completed by hand and in-person, using your own flesh and brain.
+
+## Collaboration
+
+University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
+
+## Plagiarism
+
+Paraphrasing or quoting another's work without citing the source is a form of academic misconduct. Even inadvertent or unintentional misuse or appropriation of another's work (such as relying heavily on source material that is not expressly acknowledged) is considered plagiarism. If you have any questions about using and citing sources, you are expected to ask for clarification.
+
+## Attendance Policy
+
+Please do not come to campus if you are sick! I trust you will only miss class when absolutely necessary, and do not need extensive explanations for absences. However, please notify me as soon as practical, so that we can figure out appropriate accommodations.
+
+## Inclusivity Statement
+
+I support an inclusive learning environment where diversity and individual differences are understood, respected, appreciated, and recognized as a source of strength. We expect that students, faculty, administrators and staff at MSU will respect differences and demonstrate diligence in understanding how other peoples' perspectives, behaviors, and worldviews may be different from their own.
+
+## Syllabus Language for Students with Disabilities
+
+If you are a student with a disability and wish to use your approved accommodations for this course, please contact me during my office hours to discuss. Please have your Accommodation Notification or Blue Card available for verification of accommodations. Accommodations are approved through the Office of Disability Services located in SUB 174. Please see Disability Services for more information.

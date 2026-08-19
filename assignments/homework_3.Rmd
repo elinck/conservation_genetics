@@ -1,0 +1,42 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Homework #3
+
+Name: ________________________       
+                                                                                                                                                              
+1) Recall that at a locus with complete dominance, a recessive lethal allele results in genotypic relative fitnesses of $w(AA)$ = 1, $w(Aa)$ = 1, and $w(aa)$ = 1 – $s$, where $s$ is a selection coefficient that can range from 0 to 1. To create a one-locus model of selection under additive inheritance or partial dominance, we must introduce a dominance coefficient—typically denoted by $h$--—which we will combine with s to determine the fitness of the heterozygote (1 – $hs$).
+
+a. What mode of inheritance is modeled by $h$ = 0?
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+b. What mode of inheritance is modeled by $h$ = 0.5? By $h$ = 0.3?
+
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+2) Imagine a recessive allele responsible for a dark morph of fence lizards occurs at a frequency of 0.5. Though previously neutral, the sudden introduction of hungry and sharp-eyed roadrunners to their habitat renders dark lizards slightly more vulnerable to predation than they were previously. Homozygous carriers of this allele now have a relative fitness of 0.8, and heterozygotes a relative fitness of 0.9. Those homozygous for the alternate allele maintain a relative fitness of 1.0.
+
+a. What is the value of the selection coefficient s? What is the value of h?
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+b. Using your answer to 2a and terms for the expected genotype frequencies following one generation of selection under partial dominance, determine how many fence lizard babies will be dominant homozygotes, heterozygotes, and recessive homozygotes if 200 are born in total. Sum the number of individuals of each genotype. What do you notice?
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+c. Next, calculate allele frequencies for this new generation. How much has p changed since the introduction of roadrunners (i.e., what is the value of $\Delta p$)? What is the value of $\Delta q$? Is $p$ under positive or negative selection?
+

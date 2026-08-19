@@ -1,0 +1,59 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Homework #7
+
+Name: ________________________       
+
+1) The Eurasian Skylark was introduced to Vancouver Island in 1903 and persists to this day in small numbers, nearly 3000 miles from the nearest large natural population in Russia. An ornithologist interested in the consequences of this introduction genotypes 20 individuals from Vancouver and 20 from Kamchatka in eastern Russia. The Vancouver population is composed of 5 $A_1A_1$ individuals, 4 $A_1A_2$ individuals, and 11 $A_2A_2$ individuals; in the Russian population, there are 8 $A_1A_1$ individuals, 9 $A_1A_2$ individuals, and 3 $A_2A_2$ individuals. 
+
+a. Calculate inbreeding coefficient ($F_{IS}=1-\frac{H_o}{H_e}$) for both populations and Wright’s fixation index ($F_{ST}=1-\frac{H_s}{H_t}$) for all sampled skylarks. To do so, remember that $H_s$ is the weighted average of the expected heterozygosity of each subpopulation, while $H_t$ is the expected heterozygosity calculated over all individuals. 
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+b. Wright’s fixation index can also be calculated as $F_{ST}=\frac{1}{4N_e m + 1}$. Using your answer to 1a and assuming an $N_e$ of 1000, estimate the effective number of migrants ($N_em$) exchanged between Russia and Vancouver each generation.     
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+c.	Interpret your findings. Is this a significant level of differentiation? In the absence of natural selection, do you expect Vancouver and Russian skylarks to merit treatment as distinct conservation units based on these data alone?
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+d. How would $F_{ST}$ change under the following circumstances? Assume a sample size of 20. 
+&nbsp;  
+&nbsp;  
+
+…if there were only 1 $A_1A_1$ individual on Vancouver?	\hfill	         (DECREASE / INCREASE / NO CHANGE)  
+…if there were 10 $A_1A_2$ individuals on Vancouver? \hfill 		         (DECREASE / INCREASE / NO CHANGE)  
+…if the estimated $N_e$ decreased, but m stayed constant? \hfill	         (DECREASE / INCREASE / NO CHANGE)  
+…if the estimated $N_e$ stayed the same, but m increased? \hfill	         (DECREASE / INCREASE / NO CHANGE)  
+

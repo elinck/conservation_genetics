@@ -1,0 +1,92 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Quiz #2
+
+Name: ________________________       
+
+For questions 1--5, use the letters below (a--e) to indicate how the population will evolve. 
+The relative fitness of each genotype is provided. You can assume that the variable $s$ is greater than zero but will not be so big as to create a negative fitness, and that the population is large enough to be effectively infinite. (5 points total) 
+
+a) $A_1$ will reach fixation. 
+b) $A_2$ will reach fixation.
+c) An equilibrium allele frequency will be reached. 
+d) Other.
+e) There is not enough information to answer the question.  
+
+\noindent
+\renewcommand{\arraystretch}{1.2}
+\begin{center}
+\begin{tabular}{r@{\hspace{1em}} c c c c c}
+ & \textbf{1)} & \textbf{2)} & \textbf{3)} & \textbf{4)} & \textbf{5)} \\ \hline
+$\mathbf{A_1A_1}$ & 0.99 & $1 - s$ & 0.75 & 1.0 & 1 \\
+$\mathbf{A_1A_2}$ & 1 & $1 - s$ & 1 & 0.75 & $1 - hs$ \\
+$\mathbf{A_2A_2}$ & 1 & 1 & 0.75 & 1.0 & $1 - s$ \\
+\end{tabular}
+\end{center}
+\vspace{1em}
+
+\noindent
+1) \underline{\hspace{2cm}} \hspace{1em}
+2) \underline{\hspace{2cm}} \hspace{1em}
+3) \underline{\hspace{2cm}} \hspace{1em}
+4) \underline{\hspace{2cm}} \hspace{1em}
+5) \underline{\hspace{2cm}}
+
+6) Imagine you have been put in charge of the recovery program for the Mauritius Kestrel at a point in which only four individuals remain. During a televised forum with the president of Mauritius, he states that the captive breeding program will benefit from an input of beneficial mutations with each new round of offspring. List two reasons he is sadly misguided (2 points). 
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp; 
+
+7) The smallest known genome belongs to a bacterium called *Nasuia deltocephalinicola*, with just 112,091 nucleotides and 137 coding genes. *N. deltocephalinicola* is an obligate endosymbiont in leafhoppers, synthesizing 10 essential amino acids lacking in their diet. 
+
+a) Assuming a per-base mutation rate of $1 x 10^{-7}$, how many new mutations will be present in a population of 1 million bacteria? (2 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp; 
+
+b) If the average gene in *N. deltocephalinicola* is 500 nucleotides in length, what is the probability a mutation will occur within one of its genes in a single individual in the next generation? (3 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp; 
+
+8) Kākāpō are large flightless parrots native to New Zealand that were thought to be extinct before a population of 18 individuals was rediscovered in the 1970s, prompting an emergency captive breeding program. While the program has been extraordinarily successful, kākāpō remain prone to unpleasant recessive genetic disorders like cloacitis. Recall that the frequency of a given allele at mutation-selection equilibrium is $\hat q = \sqrt{\frac{\mu}{s}}$. If cloacitis reduces relative fitness by 0.2 and occurs in 20% of hatchlings, what mutation rate is required to explain its frequency? Is this value realistic? (3 points) 
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp; 
+
+9) In their 2008 paper, Cheviron and Brumfield looked for evidence of local adaptation to high altitude in Rufous-collared Sparrows. Imagine that a follow-up study identifies an allele that increases hemoglobin binding affinity for oxygen, boosting relative fitness by 0.4 over homozygous recessive individuals and 0.2 over heterozygotes in a population experiencing hypoxic conditions at 4500m above sea level. The allele occurs at a frequency of 0.4 in this population.    
+
+a) What is the strength of selection against the recessive allele? If a dominance coefficient is required to model allele frequency dynamics, what is its value? (2 points) 
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp; 
+
+b) Under additive inheritance, the change in frequency of a recessive allele under negative selection is given by $\Delta q = \frac{-\frac{1}{2}spq^2}{1-sq}$; under complete dominance, dynamics are modeled by $\Delta q = \frac{-spq^2}{1-sq^2}$. If 150 chicks are born to the study population, how many will be homozygous dominant? Round up to whole individuals as necessary. (4 points) 
+
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp; 
+
+
+c) 3000m downslope of the study area is a low elevation population of sparrows where the recessive allele instead occurs at a frequency of 0.95. What migration rate value ($m$) from this population up to the population at 4500m is required to reach migration – selection equilibrium, i.e. gene flow sufficient to counteract negative selection against the recessive allele at high elevation? Remember that $q_1= q_0+ m(q_m-q_0)$, where $q_0$ is the frequency of the allele in the “old” population and $q_m$ is its frequency in the immigrant (or source) population. (4 points)
+
+
+

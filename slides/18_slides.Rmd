@@ -1,0 +1,73 @@
+---
+output: beamer_presentation
+header-includes: 
+fontsize: 12pt  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(fig.width=3.5, fig.height=2.5) 
+```
+
+## Inbreeding and $H_o$
+
+\begin{figure}
+\includegraphics[width = 0.4\linewidth]{images/sperm.jpg}
+\end{figure}  
+
+## Keller et al. 1994
+
+\begin{figure}
+\includegraphics[width = 0.9\linewidth]{images/mandarte.png}
+\end{figure}  
+
+## Keller et al. 1994
+
+\begin{figure}
+\includegraphics[width = \linewidth]{images/mandarte2.jpeg}
+\end{figure}  
+
+## Keller et al. 1994
+
+\begin{figure}
+\includegraphics[width = 0.9\linewidth]{images/mandarte3.jpeg}
+\end{figure}  
+
+## Keller et al. 1994
+
+1) Why is this paper worth publishing in *Nature*?
+
+2) Why is immigration to Mandarte low in ecological terms but high in genetic terms?
+
+3) What does Figure 1 tell us?
+
+4) What does Figure 2 tell us?
+
+5) Why is differential mortality between juveniles and adults potentially a confounding variable?
+
+## Keller et al. 1994
+
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{images/keller1.png}
+\end{figure}  
+
+## Keller et al. 1994
+
+\begin{figure}
+\includegraphics[width = \linewidth]{images/keller2.png}
+\end{figure}  
+
+## Allele A1
+
+link: https://faculty.washington.edu/herronjc/a1/
+
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{images/allelea1.png}
+\end{figure} 
+
+## Allele A1
+
+1) Set all relative fitnesses to 1, both mutation rates to 0, and the proportion of migrants each generation to 0. Set the starting frequency of A1 to 0.5, the number of finite populations to something greater than 1, and finite population size to 100. Plot the frequency of heterozygotes (A1A2) while slowly increasing the inbreeding coefficient value from 0 to 1.0 in intervals of 0.1. What do you observe?  
+
+2) Repeat the steps above, but this time plot the frequency of one of the two homozygotes. What happens now? 
+

@@ -1,0 +1,33 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Homework #8
+
+Name: ________________________       
+
+1) Imagine the sole remaining individual of an endangered species (Species A) is mated with its sister taxon (Species B) in a last-ditch effort to preserve some of its genetic legacy. The offspring of this pairing is then mated with another pure individual of species B, as is the offspring of that pairing, and so on. What proportion of the genome will be derived from Species A in the 6th generation of this lineage? (This scenario is known as “backcrossing” and is common in hybrid zones.)  
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp; 
+&nbsp;  
+&nbsp;  
+
+2)	In lefthand pane of the figure below, individuals are plotted based on their admixture proportion (i.e., the proportion of their genome derived from one of two parental taxa) and their inter-population ancestry (i.e., the fraction of loci at which individuals have ancestry from both parental taxa). In the righthand pane, individuals are plotted based on their scores on two principal component axes, a technique used to summarize patterns genetic variation and the overall genetic distance among individuals. In the spaces provided, match each color-coded point (or clusters of points) with the following categories: parent taxon, F1 hybrids, late generation hybrids, backcrosses. 
+
+\begin{figure}
+\begin{center}
+\includegraphics[width = 0.55\linewidth]{images/hybridization.png}
+\end{center}
+\end{figure}  
+
+\hfill A.________ B.________ C.________ D.________ E.________ F.________ 
+
+3) Recall that the “500” in the “50/500” rule is an estimate of the effective population size required for the loss of additive genetic variance ($V_A$) by drift to be balanced out by its addition from mutation ($V_M$) given a heritability of $h^2=0.5$ and a mutation rate of $10^{-3}*V_E$, where VE is the environmental variance. Recall also that $N_E = \frac{V_A}{2V_M}$, and that $\frac{V_A}{V_E} \sim \frac{h^2}{1-h^2}$. What minimum population size for the long-term preservation of genetic diversity would be required if an estimated mutation rate of $2*10^{-4}*V_E$ and heritability of $h^2=0.75$ were used instead? (Textbook pp. 341-343 may be helpful.)   
+

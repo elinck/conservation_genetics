@@ -1,0 +1,36 @@
+---
+output: beamer_presentation
+header-includes: 
+fontsize: 11pt  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(fig.width=3.5, fig.height=2.5) 
+```
+
+## Possible Quiz Topics
+
+1) Calculate the probability of ending up with a particular number of copies of a given allele after one generation of random mating (${2N\choose K} p^Kq^{2N-K}$)  
+
+2) Calculate inbreeding coefficients from genotype and allele frequencies ($F = 1 - \frac{H_{o}}{H_{e}}$) or a pedigree ($F_{p} = \sum{(\frac{1}{2})^n}(1 + F_{ca})$) or information on effective population size and generations elapsed ($F = 1 - (1 - \frac{1}{2N_e})^t$)  
+
+3) Calculate the magnitude of inbreeding depression for a given trait given genotype and allele frequencies and trait values ($\delta = -2pqdF$)
+
+4) Quantify the expected loss in heterozygosity given information on effective population size ($H_{t} = (1 - \frac{1}{2N_e})^tH_{o} \approx H_{o}e^{\frac{-t}{2N_e}}$)  
+
+5) Describe the relationships between different population genetic metrics and their conceptual significance (i.e., what makes $N_e$ different than $N$ in real life?)  
+
+## Allele A1
+
+link: https://faculty.washington.edu/herronjc/a1/
+
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{images/allelea1.png}
+\end{figure} 
+
+## Allele A1
+
+1) Set all relative fitnesses to 1, both mutation rates to 0, and the proportion of migrants each generation to 0. Set the starting frequency of A1 to 0.5, the number of finite populations to something greater than 1, and finite population size to 100. Plot the frequency of heterozygotes (A1A2) while slowly increasing the inbreeding coefficient value from 0 to 1.0 in intervals of 0.1. What do you observe?  
+
+2) Repeat the steps above, but this time plot the frequency of one of the two homozygotes. What happens now? 

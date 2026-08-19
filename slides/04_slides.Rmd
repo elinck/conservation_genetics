@@ -1,0 +1,59 @@
+---
+output: beamer_presentation
+header-includes: 
+fontsize: 13.5pt  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Chi-Squared Distribution Table   
+
+\begin{figure}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/chi-square-table.png}
+\end{figure}  
+
+Degrees of freedom = number of parameters that are free to vary. *p* + *q* = 1, so *df*=1. 
+
+
+## Chi-Squared Distribution  
+
+Probability Density Function:
+
+$$
+f(k) = \frac{1}{2^{k/2} \Gamma (k/2)} x^{k/2-1} e^{-x/2}
+$$
+  
+where *k* = degrees of freedom and *x* is the test statistic (i.e., what you use to determine the p-value)
+  
+## Chi-Squared Distribution
+
+Probability Density Function:
+
+\begin{figure}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/chi_square.png}
+\end{figure}  
+
+## Ferruginous Hawks
+\begin{figure}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/misc_talks/images/feha-01.png}
+\end{figure}  
+
+## Ferruginous Hawks
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{/Users/k14m234/Dropbox/misc_talks/images/feharange.png}
+\end{figure}  
+
+## Ferruginous Hawks
+\begin{figure}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/misc_talks/images/feha2-01.png}
+\end{figure}  
+
+## Discussion Questions (Optional Reading)
+
+1) Schmutz & Schmutz 1981: Why might there have been a single dark nestling observed in the light x light mating events in 1977?  
+
+2) Schmutz & Schmutz 1981: What does Table 2 tell us?  
+  
+  

@@ -1,0 +1,107 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Quiz #4
+
+Name: ________________________       
+                                                                                                                                                              
+1)  Draw simple graphs depicting the relationship between $F_{ST}$ and a) the ratio of observed to expected average heterozygosity of subpopulations; b) migration rate between subpopulations when population size is constant; c) effective population size of subpopulations when migration is constant (3 points).
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+2) Explain the One-Migrant-Per-Generation Rule using the equation $F_{ST} = \frac{1}{4Nm + 1}$. Hint: You may wish to apply it to two populations of different effective sizes with different migration rates. (4 points)  
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+3) What does the 50 in Franklin’s 50/500 rule refer to? What variables were considered in its derivation? (3 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+4) What does the 500 in Franklin’s 50/500 rule refer to? What variables were considered in its derivation? (3 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+\newpage
+
+5) Mountain Caribou are a subspecies of Woodland Caribou found in inland temperate rainforest in northeastern Washington, northern Idaho, and British Columbia. In 2009, the South Selkirks subpopulation of Mountain Caribou numbered 46 individuals.
+
+a. If observed heterozygosity in this population was 0.2 in 2009 and 0.18 in 2021, what is the species’ $N_e/N$ ratio? (Caribou have a generation time of 6 years; the equation $H_t = H_oe^{\frac{-t}{2Ne}}$ may be useful.) (5 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+b. At the time the heterozygosity was measured in 2021, allele frequencies at a diallelic locus of interest were $f(A_1)$ = 0.8 and $f(A2_)$ = 0.2. What is the inbreeding coefficient for this locus? Remember that $F$ can be calculated as $1 - \frac{H_o}{H_e}$. (2 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+
+5) Hermit Warblers and Townsend's Warblers are small songbirds with locally overlapping ranges in the mountains of the Pacific Northwest, where they hybridize. Assume that you are a graduate student studying the species using diagnositic nuclear markers, such that pure Hermit Warblers have the genotypes $AA/BB/CC/DD$, and pure Townsend's Warblers have the genotypes $aa/bb/cc/dd$. 
+
+a. A phenotypically ambiguous warbler is genotyped as Aa/bb/CC/Dd. Remember that hybrids can be classified as F1 individuals, F2 individuals, or late-generation hybrids (F3 and on). Your advisor claims the bird must be an F1 (e.g., the product of a cross between pure Hermit and pure Townsend's indviduals). Do you agree? Why or why not? (3 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+
+
+b. What is the probability an F2 hybrid is homozygous at all four diagnostic loci? (2 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+
+
+
+

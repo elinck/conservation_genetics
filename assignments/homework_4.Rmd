@@ -1,0 +1,40 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Homework #4
+
+Name: ________________________       
+                                                                                                                                                              
+1) There are approximately 19,848 genes in a grizzly’s (*Ursus arctos horribilis*) haploid genome. Assume the mutation rate per gene is $1 x 10^{-5}$. What is the probability that an individual’s diploid genome contains at least one new mutation?
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp;  
+
+
+2) Recall that the frequency of a given allele at mutation-selection equilibrium ($\hat q$) is the square root of the mutation rate ($\mu$) over the selection coefficient ($s$). If a mutation occurs at a frequency of 0.05 at a locus with a mutation rate of $3 x 10^{-4}$, what is the strength of selection against it?
+
+&nbsp;  
+&nbsp;  
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+3) Barred Owls (*Strix varia*) are large North American owls that have recently expanded their range into the Pacific Northwest, where they often outcompete and frequently hybridize with the endangered Northern Spotted Owl (*Strix occidentalis caurina*), resulting in birds of mixed ancestry. Imagine a research scientist with the US Forest Service is studying a Strix population near Liberty in Washington state where an allele that is diagnostic (i.e., occurs at a frequency of 1.0) for pure Northern Spotted Owls and absent in pure Barred Owls is found in 17 of 27 captured birds. As discussed in lecture, the frequency of an allele in a “new” (or admixed) population is given by $q_1 = q_0 + m(q_m - q_0)$, where $q_0$ is the frequency of the allele in the “old” population and $q_m$ is its frequency in the immigrant (or source) population.
+
+
+a. Provide an estimate of proportion of Barred Owl alleles ($m$) for Strix owls in Liberty.
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+b. If Barred Owls continue to migrate into Liberty at the rate determined in 3a and there is no new input of pure Spotted Owls, what will the frequency of the diagnostic allele be in the next generation?
+

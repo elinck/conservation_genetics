@@ -1,0 +1,59 @@
+---
+output: beamer_presentation
+header-includes: 
+fontsize: 10pt  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## LD Decay through time
+
+```{r, message=FALSE, echo=FALSE, fig.height=4, fig.width=6}
+library(ggplot2)
+
+# assign different values of c and D_0
+c1 <- 0.01
+c2 <- 0.10
+c3 <- 0.25
+D_0 = 0.25
+
+# assign functions for each value of c
+ld_1 <- function(x) D_0*(1 - c1)^x
+ld_2 <- function(x) D_0*(1 - c2)^x
+ld_3 <- function(x) D_0*(1 - c3)^x
+
+# generate plot
+p1 <- ggplot() +
+  theme_bw() +
+  theme(legend.title = element_blank())+
+  stat_function(fun = ld_1, aes(linetype="c=0.01")) +
+  stat_function(fun = ld_2, aes(linetype="c=0.1")) +
+  stat_function(fun = ld_3, aes(linetype="c=0.5")) +
+  scale_linetype_discrete() +  
+  ylim(0,0.25) +
+  xlim(0, 500) +
+  ylab("Linkage Disequilibrium (D)")
+p1
+```
+
+## Linkage Disequilibrium Simulator
+
+link: https://cjbattey.shinyapps.io/LDsim/
+
+\begin{figure}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/ldsim.png}
+\end{figure}  
+
+## LDSim Activity
+
+1) Under the "Chromosomes" tab, look at the plot that appears when the website loads. What is the x axis? What does each horizontal line represent? What do the gray bars pairing horizontal lines represent? How about the colors?
+
+2) Using the same "Chromosomes" tab, move the "recombination rate" slider to 0, then click "Next Generation" several times. What happens to haplotype and allele frequencies? Click "New Population" to reset, and change the recombination rate to a higher value and repeat the simulation. How does your answer change? 
+
+3) Navigate to the "Change Over Time" tab and click "Run". What does the graph that appears below the sliders show? Describe all features.  
+
+4) Under the "Change Over Time" tab, run simulations using different combinations of recombination rate and population size. Which values lead to the quickest loss (or "decay") in LD? Which values lead to the slowest?  
+
+5) Develop a question that can be answered using this app. 

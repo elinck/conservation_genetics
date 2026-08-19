@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "",
+    "text": "Course: BIOB480 / BIOE548 (3 Credits)\nPrerequisite: A solid grasp of the basics of evolution, statistics, and genetics\nMeeting Time: T/TR 10:50 PM - 12:05 PM\nPlace: 201 Reid Hall\nInstructor: Dr. Ethan Linck (ethan.linck@montana.edu; 406-994-2024)\nOffice Hours: Wednesday 12:30-3:30 PM; by appointment as available\nMaterials: A laptop (tablets will not suffice)"
+  },
+  {
+    "objectID": "index.html#catalog-description",
+    "href": "index.html#catalog-description",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Catalog Description",
+    "text": "Catalog Description\nIntroduces the theory and practice of conservation genetics, focusing primarily on animals. Case studies will be used liberally, and emphasis will be placed on interpreting genetic data. Readings will include primary literature."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Overview",
+    "text": "Overview\nConservation genetics is a relatively young discipline that merges population and evolutionary genetics with conservation biology. It aims to delimit the basic units of biological conservation and understand how their genetic composition is affected by habitat loss, exploitation, and environmental change. This course provides an introduction to its theory and practice. We will work through important concepts in conservation genetics, pairing a survey of foundational mathematical models with empirical examples and reviews from the primary literature. Coursework will include problem sets that will require students to interpret genetic data and use quantitative reasoning, regular discussion of scientific articles, and analysis of genetic data with a programming language."
+  },
+  {
+    "objectID": "index.html#course-organization-and-format",
+    "href": "index.html#course-organization-and-format",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Course Organization and Format",
+    "text": "Course Organization and Format\nEach day will include a mix of lecture / demonstration, discussion, and independent or group work on problem sets or other activities. Our subject will cover material you are expected to have read prior to class. On four occasions throughout the semester, part of class will be devoted to quizzes to assess understanding. We will finish the semester with group presentations on a research topic of interest, to be selected in October."
+  },
+  {
+    "objectID": "index.html#textbook",
+    "href": "index.html#textbook",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Textbook",
+    "text": "Textbook\nYour primary study materials are a set of free, open-source notes I have developed over the past few years of teaching, available online and as a downloadable pdf via GitHub. The traditional textbook for the course was Introduction to Conservation Genetics, 2nd Ed., by Frankham, Ballou, & Briscoe, which I also recommend; it is available through the MSU Bookstore."
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\n\nUnderstand the relevance of evolutionary genetics to conservation;\nUnderstand the biological basis of foundational population genetics models, and what their major features tell us;\nUnderstand how conservation genetics research is conducted;\nPractice reading scientific papers;\nImprove research, synthesis, and presentation skills."
+  },
+  {
+    "objectID": "index.html#grading",
+    "href": "index.html#grading",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Grading",
+    "text": "Grading\nYour grade will be calculated as the fraction of points earned out of a total of 250. 80 points will come from eight 10-point homework assignments; another 100 from four short quizzes and the final exam (with your lowest score dropped); 25 points from submitting short questions related to primary literature reading assignments; 25 points for participation, attendance, and engagement; and 20 points from your final project."
+  },
+  {
+    "objectID": "index.html#grading-1",
+    "href": "index.html#grading-1",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Grading",
+    "text": "Grading\nYour grade will be calculated as the fraction of points earned out of a total of 200. 100 points will come from homework assignments; another 100 from four short quizzes; 25 points from submitting short questions related to primary literature reading assignments; 25 points for participation, attendance, and engagement; 25 points from the group presentation; and 25 points from the Final Exam. Any quiz can be revised and turned in a second time to earn back up to 50% of missed credit."
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Schedule",
+    "text": "Schedule\nThis is a maximalist version of the course syllabus. Expect material to be cut, not added. Slides and practice problems will be added throughout the semester.\n\n\n\nWeek\nTopics\nAssignments\n\n\n\n\n8/24 - 8/28\n\nSyllabus, History, Assessment\n\n\nA Brief History of Conservation Genetics\nAssessment (due 8/31)\n\n\n\n8/31 - 9/4\n\nIntro to Vocab and Topics\nGenetic Diversity\n\n\nHow do we study genetic diversity?\nCorbin et al. 1974\n\n\n\n9/7 - 9/11\n\nHardy Weinberg Principle\n\n\nHardy-Weinberg Principle\nSchmutz & Schmutz 1981\n\n\n\n9/14 - 9/18\n\nLinkage Disequilibrium\n\n\nLinkage Disequilibrium\nHomework #1 (due 9/29)\n\n\n\n9/28 - 10/2\n\nQuantitative Genetics\n\n\nQuantitative Genetics\nHomework #2 (due 10/6)\nQuiz #1 (10/1; History through Linkage Disequilibrium)\n\n\n\n10/5 - 10/9\n\nNatural Selection\n\n\nNatural Selection\nHomework #3 (due 10/13)\nNachman et al. 2003\n\n\n\n10/12 - 10/16\n\nMigration and Mutation Equilibria\n\n\nMutation, migration, and selection\nHomework #4 (due 10/20)\nCheviron & Brumfield 2009\n\n\n\n10/19 - 10/23\n\nGenetic Drift\n\n\nGenetic Drift\nHomework #5 (due 10/27)\nIntro to Python\nQuiz #2 (10/22; Quantiative Genetics through Equiibria)\n\n\n\n10/26 - 10/30\n\nEffective Population Size (\\(N_e\\))\n\n\nEffective Population Size\nThe Coalescent\n\n\n\n11/2 - 11/6\n\nInbreeding and its consequences\n\n\nInbreeding and Inbreeding Depression\nHomework #6 (due 11/10)\nIntro to scikit-allel\n\n\n\n11/9 - 11/13\n\nPopulation subdivision\n\n\nPopulation Subdivision\nHomework #7\nMills & Allendorf 1996\nQuiz #3 (11/12; \\(N_e\\) through Inbreeding)\n\n\n\n11/16 - 11/20\n\nGenetic Viability\n\n\nGenetic Viability\n\n\n\n11/23 - 11/27\nFall Break\n\n\n\n11/30 - 12/4\n\nConservation Units\n\n\nTaxonomy, Systematics, and Management Units\nFunk et al. 2012\nFinal Project (due 12/17)\n\n\n\n12/7 - 12/11\n\nHybridization\n\n\nHybridization\nHomework #8 (due 12/14)\nAllendorf et al. 2004\nCampton & Kaeding 2005\nQuiz #4 (12/10; Viability through Hybridization)\n\n\n\n12/14 - 12/18\nExam Week\n\nFinal Exam (12/15, 1000-1150 hrs)"
+  },
+  {
+    "objectID": "index.html#reading-list",
+    "href": "index.html#reading-list",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Reading List",
+    "text": "Reading List\n\nCorbin, K. W., Sibley, C. G., Ferguson, A., Wilson, A. C., Brush, A. H., & Ahlquist, J. E. (1974). Genetic polymorphism in New Guinea starlings of the genus Aplonis. The Condor, 76(3), 307-318.\nSchmutz, S. M., & Schmutz, J. K. (1981). Inheritance of color phases of ferruginous hawks. The Condor, 83(2), 187-189.\nNachman, M. W., Hoekstra, H. E., & D’Agostino, S. L. (2003). The genetic basis of adaptive melanism in pocket mice. Proceedings of the National Academy of Sciences, 100(9), 5268-5273.\nCheviron, Z. A., & Brumfield, R. T. (2009). Migration-selection balance and local adaptation of mitochondrial haplotypes in rufous-collared sparrows (Zonotrichia capensis) along an elevational gradient. Evolution, 63(6), 1593-1605.\nLuikart, G., & Cornuet, J. M. (1998). Empirical evaluation of a test for identifying recently bottlenecked populations from allele frequency data. Conservation Biology, 12(1), 228-237.\nMiller, C. R., & Waits, L. P. (2003). The history of effective population size and genetic diversity in the Yellowstone grizzly (Ursus arctos): implications for conservation. Proceedings of the National Academy of Sciences, 100(7), 4334-4339.\nKeller, L. F., Arcese, P., Smith, J. N., Hochachka, W. M., & Stearns, S. C. (1994). Selection against inbred song sparrows during a natural population bottleneck. Nature, 372(6504), 356-357.\nMills, L. S., & Allendorf, F. W. (1996). The one‐migrant‐per‐generation rule in conservation and management. Conservation Biology, 10(6), 1509-1518.\nFunk, W. C., McKay, J. K., Hohenlohe, P. A., & Allendorf, F. W. (2012). Harnessing genomics for delineating conservation units. Trends in Ecology & Evolution, 27(9), 489-496.\nAllendorf, F. W., Leary, R. F., Hitt, N. P., Knudsen, K. L., Lundquist, L. L., & Spruell, P. (2004). Intercrosses and the US Endangered Species Act: should hybridized populations be included as westslope cutthroat trout?. Conservation Biology, 18(5), 1203-1213.\nCampton, D. E., & Kaeding, L. R. (2005). Westslope cutthroat trout, hybridization, and the US Endangered Species Act. Conservation Biology, 19(4), 1323-1325."
+  },
+  {
+    "objectID": "index.html#drop-add-policy",
+    "href": "index.html#drop-add-policy",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Drop / Add Policy",
+    "text": "Drop / Add Policy\nMSU’s registration processes can be found on the Registrar’s website. September 3rd is the last day to drop online; September 10th is the last day to drop without a ‘W’ on your transcript; November 12th is the last day to drop with a ‘W’ on your transcript."
+  },
+  {
+    "objectID": "index.html#generative-ai",
+    "href": "index.html#generative-ai",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Generative AI",
+    "text": "Generative AI\nAny work produced by generative AI cannot be submitted as your own. I will not spend extensive time policing this—the loss is primarily yours—but if detected, I will consider it academic misconduct. If you find yourself drawn to use generative AI as a study aid, I urge you to exercise caution, less because it is incapable of doing the work (it isn’t) than because quizzes and exams must be completed by hand and in-person, using your own flesh and brain."
+  },
+  {
+    "objectID": "index.html#collaboration",
+    "href": "index.html#collaboration",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Collaboration",
+    "text": "Collaboration\nUniversity policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification."
+  },
+  {
+    "objectID": "index.html#plagiarism",
+    "href": "index.html#plagiarism",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Plagiarism",
+    "text": "Plagiarism\nParaphrasing or quoting another’s work without citing the source is a form of academic misconduct. Even inadvertent or unintentional misuse or appropriation of another’s work (such as relying heavily on source material that is not expressly acknowledged) is considered plagiarism. If you have any questions about using and citing sources, you are expected to ask for clarification."
+  },
+  {
+    "objectID": "index.html#attendance-policy",
+    "href": "index.html#attendance-policy",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Attendance Policy",
+    "text": "Attendance Policy\nPlease do not come to campus if you are sick! I trust you will only miss class when absolutely necessary, and do not need extensive explanations for absences. However, please notify me as soon as practical, so that we can figure appropriate accommodations."
+  },
+  {
+    "objectID": "index.html#inclusivity-statement",
+    "href": "index.html#inclusivity-statement",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Inclusivity Statement",
+    "text": "Inclusivity Statement\nI support an inclusive learning environment where diversity and individual differences are understood, respected, appreciated, and recognized as a source of strength. We expect that students, faculty, administrators and staff at MSU will respect differences and demonstrate diligence in understanding how other peoples’ perspectives, behaviors, and worldviews may be different from their own."
+  },
+  {
+    "objectID": "index.html#syllabus-language-for-students-with-disabilities",
+    "href": "index.html#syllabus-language-for-students-with-disabilities",
+    "title": "BIOB480 / BIOE548: Conservation Genetics",
+    "section": "Syllabus Language for Students with Disabilities",
+    "text": "Syllabus Language for Students with Disabilities\nIf you are a student with a disability and wish to use your approved accommodations for this course, please contact me during my office hours to discuss. Please have your Accommodation Notification or Blue Card available for verification of accommodations. Accommodations are approved through the Office of Disability Services located in SUB 174. Please see Disability Services for more information."
+  }
+]

@@ -1,0 +1,47 @@
+---
+output: beamer_presentation
+header-includes: 
+fontsize: 11pt  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Natural selection in Threespine sticklebacks
+
+\begin{figure}
+\includegraphics[width = \linewidth]{images/schluter.png}
+\end{figure}  
+
+## Selection at a biallelic locus
+
+link: https://phytools.shinyapps.io/selection/
+
+\begin{figure}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/selection_app.png}
+\end{figure}  
+
+## Selection Activity
+
+1) Set fitnesses to WW(AA)=1.0, W(Aa)=1.0, and W(aa)=0.8. Set p0 to 0.01, and make sure you are showing a plot of p. What mode of inheritance is occuring at this locus? What is the value of the selection coefficient? How many generations does it take to reach p=0.6?
+
+2) Change W(Aa) to 0.9. What mode of inheritance are you modeling now? Does the time it take to reach p=0.6 change?
+
+3) Switch to showing a plot of q without changing any other settings. What can you conclude about the relationship between p and q through time?
+
+4) Develop a question and address it using this app. Be prepared to report back to the class. 
+
+## Nachman et al. Group Discussion
+
+1) What is the mechanism of natural selection in this study?  
+
+2) What does it mean that MC1R is "perfectly associated" with coat color?  
+
+3) What does Table 2 tell us?  
+
+4) What does Figure 2 tell us?  
+
+
+

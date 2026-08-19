@@ -1,11 +1,3 @@
-# BIOB480 / BIOE548: Conservation Genetics
-
-This [GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) is home to materials for MSU's  BIOB480 / BIOE 548: Conservation Genetics class.  
-
-## Class Notes
-
-Notes from lectures are available as a [web book 
-here](https://elinck.org/popgen_congen_notes/). 
 
 ## Lab Activities and Final Projects
 

@@ -1,0 +1,54 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Homework #6
+
+Name: ________________________       
+
+1) Calculate the inbreeding coefficient at single diallelic locus in the great-great-grandchild of a pair of unrelated individuals if every subsequent mating event occurs between siblings. In other words, what is the probability the great-great-grandchild receives two copies of any allele that is identical by descent? It may be helpful to draw a pedigree, and revisit pp. 274-277 in the textbook.
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+
+2) Describe how inbreeding coefficients, heterozygosity, genetic drift, and effective population size are interrelated. 
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+
+3) A population of 80 Black-footed Ferrets near Meeteetse, WY is genotyped at a diallelic locus, resulting in the following genotype counts: n=35 $A_1A_1$ ferrets, n=15 $A_1A_2$ ferrets, and n=30 $A_2A_2$ ferrets. $A_1A_1$ individuals have 6 kits a litter, $A_1A_2$ individuals have 5 kits a litter, and $A_2A_2$ individuals have 2 kits a little. Remembering that $F = 1 - \frac{H_o}{H_e}$ and $\delta = 2pqdF$, calculate a) the inbreeding coefficient and b) how many fewer kits on average a Meeteetse ferret will have than a randomly mating population. (This won’t be a whole number.) 

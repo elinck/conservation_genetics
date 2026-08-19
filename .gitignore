@@ -8,3 +8,8 @@
 data/
 notes/
 popgen_congen_notes/
+old_materials/
+assignments/*key*
+
+/.quarto/
+**/*.quarto_ipynb

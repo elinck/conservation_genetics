@@ -1,0 +1,136 @@
+---
+output: beamer_presentation
+header-includes: 
+fontsize: 12pt  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Intro to clines
+
+Clines are gradients of traits or allele frequencies typically formed by the tension between gene flow (or sometimes drift) and selection
+
+\begin{figure}
+\includegraphics[width = 0.6\linewidth]{images/cline_intro.png}
+\end{figure}  
+
+([UCL](https://www.ucl.ac.uk/~ucbhdjm/courses/b242/Hz/Hz.html))  
+
+
+## Clines from primary differentiation
+
+\begin{figure}
+\includegraphics[width = 0.9\linewidth]{images/cline.png}
+\end{figure}  
+
+([Wikipedia](https://en.wikipedia.org/wiki/Cline_%28biology%29))  
+
+## Clines from secondary contact
+
+\begin{figure}
+\includegraphics[width = 0.9\linewidth]{images/secondary.png}
+\end{figure}  
+
+([Wikipedia](https://en.wikipedia.org/wiki/Cline_%28biology%29))  
+
+## Sweet Vernal Grass (*Anthoxanthum odoratum*)  
+
+\begin{figure}
+\includegraphics[width = 0.9\linewidth]{images/anthoxanthum.png}
+\end{figure}  
+
+(iNaturalist)  
+
+## Sweet Vernal Grass (*Anthoxanthum odoratum*)
+
+\begin{figure}
+\includegraphics[width = \linewidth]{images/anthoxanthum_clines.png}
+\end{figure}  
+
+[Antonovics & Bradshaw 1970](https://doi.org/10.1038/hdy.1970.36)
+
+## Blood Group Genes
+
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{images/a_b_blood.png}
+\end{figure}  
+
+[Livingstone 1969](https://doi.org/10.1002/ajpa.1330310102)
+
+## Elapaios
+
+\begin{figure}
+\includegraphics[width = 0.8\linewidth]{images/elepaio_pic.png}
+\end{figure}  
+
+(eBird)
+
+## Elapaios
+
+\begin{figure}
+\includegraphics[width = \linewidth]{images/elepaios.png}
+\end{figure}  
+
+[VanderWerf 2012](https://doi.org/10.1525/om.2011.73.1.1)
+
+## Rufous-collared Sparrow
+
+\begin{figure}
+\includegraphics[width = 0.9\linewidth]{images/rufi.png}
+\end{figure}  
+
+(eBird)
+
+## Rufous-collared Sparrow
+
+\begin{figure}
+\includegraphics[width = 0.6\linewidth]{images/rufi_range.png}
+\end{figure}  
+
+(eBird)
+
+## Cheviron & Brumfield 2009
+
+1) What was their question?  
+
+2) What is the purpose of the "control transects"?  
+
+3) Why do they want to know if population genetic and environmental clines are congruent?  
+
+4) What do they infer from the width of the mitochondrial DNA cline?  
+
+5) What traits do they think selection is acting on?  
+
+## Cheviron & Brumfield 2009  
+
+\begin{figure}
+\includegraphics[width = \linewidth]{images/chev_fig_1.png}
+\end{figure}  
+
+## Cheviron & Brumfield 2009
+
+\begin{figure}
+\includegraphics[width = \linewidth]{images/chev_fig_2.png}
+\end{figure}  
+
+## Cheviron & Brumfield 2009
+
+\begin{figure}
+\includegraphics[width = 0.4\linewidth]{images/chev_fig_3.png}
+\end{figure}  
+
+
+
+
+
+
+
+
+
+
+
+
+

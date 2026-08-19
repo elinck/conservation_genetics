@@ -1,0 +1,114 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Quiz #3
+
+Name: ________________________       
+                                                                                                                                                              
+1) Draw a graph (or graphs) showing the expected relationship between the inbreeding coefficient ($F$) and a) the ratio of observed heterozygosity ($H_o$) to expected heterozygosity ($H_e$); b) effective population size ($N_e$); c) the strength of genetic drift. (3 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+
+2) List two reasons effective population size can differ from census population size in wild populations. (2 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+3) Mountain Caribou are a subspecies of Woodland Caribou found in inland temperate rainforest in northeastern Washington, northern Idaho, and British Columbia. In 2009, the South Selkirks subpopulation of Mountain Caribou numbered 46 individuals.
+
+a. If observed heterozygosity in this population was 0.2 in 2009 and 0.18 in 2021, what is the species’ $N_e/N_c$ ratio? (Caribou have a generation time of 6 years; the equation $H_t = H_oe^{\frac{-t}{2Ne}}$' may be useful.) (5 points)
+
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+
+b. At the time the heterozygosity was measured in 2021, allele frequencies at a diallelic locus of interest were $f(A_1) = 0.8$ and $f(A_2) = 0.2$. What is the inbreeding coefficient for this locus? Remember that $F$ can be calculated as $1 - \frac{H_o}{H_e}$ (2 points)
+
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;
+&nbsp;  
+&nbsp; 
+&nbsp;  
+
+4) The Guam Rail (*Gallirallus owstoni*) is a small, flightless bird that was nearly driven to extinction by the invasive Brown Tree Snake before 21 individuals were rescued and brought into captivity in 1987. Clutch size (the number of eggs each female lays) ranges from 1 to 5. Assume this trait is controlled by a single diallelic locus A, with homozygous dominant individuals laying 5 eggs, heterozygotes laying 4 eggs, and homozygous recessive individuals laying 1 egg; in the captive population, the dominant allele occurs at a frequency of 1/3$^{rd}$ ($0.3 \bar3$). Assume also that the $N_e$ to $N_c$ ratio is 1, that the sex ratio is close enough to even to not affect calculations, and recall the equations $F = (1 - (1 - \frac{1}{2Ne})^t)$ and ${2N \choose K} p^Kq^{2N-K}$. The degree to which the population mean trait value differs from the midpoint of the trait value of the two homozygoust genotypes is calculated as $M_o = a(p-q) + 2pqd$ under random mating and $M_f = M_o - 2pqdf$ under inbreeding. 
+
+a. Calculate the expected inbreeding coefficient for the captive population ten generations later. (2 points)
+
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+
+b. What is the expected number of offspring in the next generation? Round to the nearest whole number. (3 points)
+
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+
+c. If the captive population has exactly this number of young, what is the probability the frequency of the homozygous dominant allele will decrease to 0.3 due to genetic drift? (4 points)
+
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+
+e. If heterozygotes laid 3 eggs instead of 4, what would be your estimate of the degree of inbreeding depression? ($\delta = -2pqdF$) (2 points)  
+
+
+
+

@@ -1,0 +1,119 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Quiz #1
+
+Name: ________________________       
+                                                                                                                                                              
+1) List three reasons genetics is relevant to conservation biology. (3 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+2) Choose a laboratory technique for studying genetic variation and list its potential advantages and disadvantages. (2 points)  
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+3) Consider a rare, recessive genetic disorder. If the frequency of the allele that causes the disorder is 0.01, how many asymptomatic carriers of the disease will there be for each individual that has the condition? (2 points)  
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+4) Draw a graph of the decay of linkage disequilibrium through time, showing both a relatively high recombination rate and relatively low recombination rate with an appropriate key or labels. (3 points)  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp;  
+&nbsp; 
+
+5) A population of Yellowstone Cutthroat trout is sampled from Lewis Lake and genotyped at 3 microsatellite loci in 50 individuals (question continued on back):                                                                                                                                                             
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l c|l c|l c|}
+\hline
+\textbf{Locus 1} &        & \textbf{Locus 2} &        & \textbf{Locus 3} &        \\
+\hline
+Genotype & Count & Genotype & Count & Genotype & Count \\
+\hline
+$A_{1}A_{1}$ & 7  & $B_{1}B_{1}$ & 12 & $C_{1}C_{1}$ & 50 \\
+$A_{1}A_{2}$ & 13 & $B_{1}B_{2}$ & 26 &              &    \\
+$A_{1}A_{3}$ & 10 & $B_{2}B_{2}$ & 12 &              &    \\
+$A_{2}A_{2}$ & 6  &              &    &              &    \\
+$A_{2}A_{3}$ & 10 &              &    &              &    \\
+$A_{3}A_{3}$ & 4  &              &    &              &    \\
+\hline
+\end{tabular}
+\end{table}
+
+\newpage
+a. What is the proportion of polymorphic sites ($P$) in this sample? (1 point)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+b. What is the average allelic richness ($A$)? (1 point)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+c. What is the average observed heterozygosity ($H_o$)? (1 point)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+d. What is the expected heterozygosity ($H_e$) at locus $A$? (2 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+e. A follow-up study in nearby Heart Lake determined the following haplotype counts: $A_1B_1$ = 20, $A_1B_2$ = 5, $A_2B_1$ = 5, $A_2B_2$ = 20. Using these data, calculate linkage disequilibrium. (Note locus $A$ is biallelic in this new sample, and recall that $D=P(A,B)-P(A)*P(B)$ where $A$ and $B$ can be any combination of alleles.) (5 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+f. Are cutthroat genotypes at locus $B$ in Hardy-Weinberg Proportions? Perform a chi-square goodness-of-fit test ($\chi^2 = \sum \frac{(O_i -E_i)^2}{E_i}$) report the test statistic, and evaluate whether any deviation is statistically significant using the following table and a cutoff of $p$=0.05 (5 points):
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+\textbf{df} & \textbf{0.10} & \textbf{0.05} & \textbf{0.025} & \textbf{0.01} & \textbf{0.005} \\
+\hline
+1 & 2.706 & 3.841 & 5.024 & 6.635 & 7.879 \\
+2 & 4.605 & 5.991 & 7.378 & 9.210 & 10.597 \\
+3 & 6.251 & 7.815 & 9.348 & 11.345 & 12.838 \\
+4 & 7.779 & 9.488 & 11.143 & 13.277 & 14.860 \\
+5 & 9.236 & 11.070 & 12.833 & 15.086 & 16.750 \\
+6 & 10.645 & 12.592 & 14.449 & 16.812 & 18.548 \\
+\hline
+\end{tabular}
+\end{table}
+
+
+                                                                                                    

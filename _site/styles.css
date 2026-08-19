@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #e5e5e5;
+  box-shadow: none !important;
+}
+
+.navbar .nav-link,
+.navbar-brand {
+  color: #000000 !important;
+}
+
+.navbar .nav-link:hover {
+  text-decoration: underline;
+}
+

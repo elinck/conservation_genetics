@@ -1,0 +1,42 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Homework #5
+
+Name: ________________________       
+
+
+1) A songbird called the Eastern Towhee shows marked geographic variation in eye color: birds in Florida have white irises, while those further north have red ones. Assume red irises are the result of an allele ($A_1$) exhibiting complete dominance that is found at a frequency of 0.99 across North America; white irises are found only in birds homozygous for the alternate allele (i.e., those with the genotype $A_2A_2$).
+
+a. Imagine 100 towhees were randomly captured across their range. What is the probability the allele $A_2$ will be lost in a single generation of random mating in captivity?
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp;  
+
+b. What is the probability the next generation includes exactly 5 copies of $A_2$? (You’ll need the binomial distribution for this: ${2N \choose K} p^K q^{2N-K}$. Remember that you can use the $nCr$ button on a graphic calculator, type "2N choose K" directly into Google, or type `choose(2N, K)` into `R`.)
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp;  
+&nbsp;  
+
+2) A semi-natural population of white rhinoceroses is being established at the Portland Zoo in order to preserve genetic diversity within the species. Assume a generation time of 20 years and a $N_e/N$ ratio of 0.4. (Recall $H_t = (1-\frac{1}{2N_e})^tH_0 \sim H_0e^\frac{-t}{2N_e}$)
+
+a. Managers wish to retain 95% of the heterozygosity in the population for 100 years. How large does the population have to be achieve this goal if they can obtain equal numbers of males and females? Round to the nearest whole individual.
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp;  
+&nbsp;  
+
+b. Unfortunately, ivory poaching has made obtaining male rhinos difficult, and the zoo’s captive population ends up 75% female. Assuming the size of this population is still given by your answer to 2a, how much
+heterozygosity can managers now expect to retain? Remember that with uneven sex ratios, $N_e = \frac{4N_mN_f}{N_m+N_f}$.  

@@ -1,0 +1,225 @@
+---
+output: beamer_presentation
+header-includes: 
+fontsize: 10
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# 
+
+> Theoretical population genetics (or theoretical evolutionary genetics) is arguably the area of biology in which mathematics has been most successfully applied. Other areas such as theoretical ecology model phenomena which are more immediately important to human welfare, but are nevertheless not as successfully modeled. The major reason why theory is more readily applied to population genetics is that there is a precise framework – Mendelian segregation – on which to hang it. - **Joe Felsenstein, "Theoretical Evolutionary Genetics", p. 1**
+
+# Darwin's Missing Mechanism
+
+> The power of Selection, whether exercised by man or brought into play under nature through the struggle for existence and the consequent survival of the fittest, absolutely depends on the variability of organic beings. Without variability, nothing can be effected; slight individual differences, however, suffice for the work, and are probably the chief or sole means in the production of new species. - **Darwin 1868, Variation of Animals and Plants Under Domestication** 
+
+# Darwin's Missing Mechanism
+
+- "...simple generation, especially under new conditions causes infinite variation" (Darwin & Darwin 1909)
+- "...most of these slight variations tend to become heriditary" (Darwin & Darwin 1909)
+
+\begin{figure}
+\includegraphics[width = 0.5\linewidth]{images/darwin.png}
+\end{figure}  
+
+# Darwin's Missing Mechanism
+
+- "Sports": large discontinuous variations (e.g. Ancon sheep with stubby legs)
+- "Individual differences"
+- Continuity maintained across lineages with "blending inheritance". 
+
+\begin{figure}
+\includegraphics[width = 0.5\linewidth]{images/darwin.png}
+\end{figure}  
+
+# Darwin's Missing Mechanism
+
+- But if selection eliminates variation, where does variation come from? 
+- Darwin's answer: "gemmules"—--atomic particles of each individual, reflecting impact of conditions (Darwin 1968)
+- Surprisingly Lamarckian!
+
+\begin{figure}
+\includegraphics[width = 0.4\linewidth]{images/lamarck.jpg}
+\end{figure} 
+
+# Gregor Mendel 
+
+- Established the "particulate" nature of genetic inheritance
+- Blending would not eliminate particles (=alleles) across generations
+- Work unknown to Darwin despite being contemporaries ("Experiments on Plant Hybrids" published in 1865, translated by Abbott and Fairbanks in 2016 for *Genetics*)  
+
+\begin{figure}
+\includegraphics[width = 0.3\linewidth]{images/mendel.jpg}
+\end{figure}  
+
+# Early Population Genetics: Sewell Wright (1889 - 1988)
+
+- Lombard College (B.A.) -> Harvard (Ph.D.) -> University of Chicago -> University of Wisconsin, Madison  
+- Background in animal breeding  
+- Genetic drift, adaptive landscapes, fixation index, causal graphs, path analysis, shifting balance theory, inbreeding   
+
+\begin{figure}
+\includegraphics[width = 0.4\linewidth]{images/wright.jpeg}
+\end{figure}  
+
+# Early Population Genetics: Ronald Fisher (1890 - 1962)
+
+- Cambridge (B.A. Astronomy) -> high school mathematics teacher -> Rothamsted Experimental Station -> Fellow of the Royal Society -> Univerity College London -> Cambridge
+- Politically conservative; into eugenics
+- Statistical legacy: Student's *t*-distribution, *F*-distribution for ANOVAs, linear discriminant analysis, much more
+- Genetics / evolution legacy: runaway selection, heterozygote advantage, sex ratios, evolution of dominance, much more  
+
+\begin{figure}
+\includegraphics[width = 0.25\linewidth]{images/fisher.jpeg}
+\end{figure}  
+
+# Early Population Genetics: J.B.S. Haldane (1892 - 1964)
+
+- Oxford (B.A. Classics) -> Oxford (Fellow) -> Cambridge -> University College London -> Rothamsted Experimental Station -> Indian Statistical Institute 
+- Swashbuckling communist vegetarian WWI vet; later moved to India
+- Natural selection, linkage and gene mapping, origin of life / "primordial soup", malaria and sickle-cell anemia 
+
+\begin{figure}
+\includegraphics[width = 0.3\linewidth]{images/haldane.jpg}
+\end{figure}  
+
+# Haldane's Dad: Legendary Mustache
+
+- Conducted physiological experiments on Yung Haldane
+
+\begin{figure}
+\includegraphics[width = 0.4\linewidth]{images/haldane2.jpg}
+\end{figure}  
+
+
+# Other Figures in the Modern Synthesis
+
+- Modern synthesis unified Mendelian genetics and Darwinian evolution
+- L to R: Theodosius Dobzhansky (population genetics), Julian Huxley (popularizer), Ernsy Mayr (zoology and speciation), George Gaylord Simpson (paleontology)
+
+\begin{figure}
+\includegraphics[width = \linewidth]{images/synthesis.png}
+\end{figure}  
+
+# 20th Century Population Genetics 
+
+- Population genetics formalized in 1960s & 1970s
+- L to R: Dick Lewontin (human genetic diversity), Motoo Kimura (neutral theory), James Crow (neutral theory), Deborah (and Brian) Charlesworth (recombination)
+
+\begin{figure}
+\includegraphics[width = \linewidth]{images/later.png}
+\end{figure}  
+
+# Conservation and Population Genetics  
+
+- Conservation genetics arguably born with O.H Frankel's early 1970s papers (e.g. "Genetic Conservation: Our Evolutionary Responsibility"), 
+
+\begin{figure}
+\includegraphics[width = 0.9\linewidth]{images/responsibility.png}
+\end{figure}  
+
+# Conservation Genetics and Conservation Biology 
+
+- A foundational text: Frankel & Michael Soulé's *Conservation and Evolution* (1981)  
+
+\begin{figure}
+\includegraphics[width = 0.3\linewidth]{images/conservationevolution.jpg}
+\end{figure}  
+
+# Conservation Genetics and Conservation Biology 
+
+- See also Soulé & Wilcox's *Conservation Biology: An Evolutionary-Ecological Perspective* (1980)
+
+\begin{figure}
+\includegraphics[width = 0.3\linewidth]{images/soule.jpg} 
+\end{figure}  
+
+# A Northwestern Strength 
+
+- L to R: Joe Felsenstein (UW), Robin Waples (UW), and Fred Allendorf (UM) have made major contributions to population and conservation genetics
+- Gordon Luikart (UM) and Mike Schwartz (RMRS in Missoula) continue to shape the field  
+
+\begin{figure} 
+\includegraphics[width = \linewidth]{images/nw.png} 
+\end{figure}  
+
+# Conservation Genetics  
+
+> Conservation genetics is an interdisciplinary subfield of population genetics that aims to understand the dynamics of genes in a population for the purpose of natural resource management, conservation of genetic diversity, and the prevention of species extinction. Scientists involved in conservation genetics come from a variety of fields including population genetics, research in natural resource management, molecular ecology, molecular biology, evolutionary biology, and systematics. The genetic diversity within species is one of the three fundamental components of biodiversity (along with species diversity and ecosystem diversity), so it is an important consideration in the wider field of conservation biology. - [**Wikipedia**](https://en.wikipedia.org/wiki/Conservation_genetics) 
+
+# Conservation Genetics 
+
+- Remains preoccupied with the population genetics of small populations
+- Now includes application of genetics techniques to address non-evolutionary conservation questions, study of evolutionary ecology of conservation issues, etc.
+
+\begin{figure}
+\includegraphics[width = 0.3\linewidth]{images/conservationevolution.jpg}
+\end{figure}  
+
+# Conservation Genetics
+
+Topics: 
+
+- Why inbreeding is harmful on reproduction and survival;  
+
+- How genetic diversity is lost and why it affects evolutionary potential;  
+
+- How fragmenting populations and habitat impacts gene flow;   
+
+- How small populations end up evolving more by random processes (genetic drift) than by deterministic processes (natural selection);  
+
+- How harmful mutations are accumulated and purged;  
+
+# Conservation Genetics
+
+Topics: 
+
+- How animals in captivity adapt to their surroundings, and why this can be a problem for reintroduction;  
+
+- How we determine taxonomy and management units using genetic data;  
+
+- How outcrossing (mating with distant relatives) can impact the fitness of populations;  
+
+- Unique aspects of the genetics and evolution of invasive species;   
+
+- Aspects of species' biology that is relevant for conservation.  
+
+# Vocabulary
+
+**Genetics:**  
+
+1) Mendel's rules of inheritance, Darwin's Theory of Natural Selection, gene, locus, diagnostic locus, allele, genotype, genome 
+
+2) phenotype, ploidy, diploid, homozygote, heterozygote, dominant, recessive, allele frequency, polymorphic
+
+3) chromosome, DNA, ACTG, protein, amino acid, enzyme, active site, genotype frequency, monomorphic
+
+**Statistics:**
+
+1) parameter, statistic, sample  
+
+2) confidence interval, null hypothesis, *p*-value
+
+3) normal distribution, $R^2$, degrees of freedom
+
+# References
+
+- Felsenstein, J. (2005). Theoretical Evolutionary Genetics. University of Washington, Seattle.
+
+- Darwin, C. R. (1868). Variation of Animals and Plants Under Domestication. J. Murray, London
+
+- Darwin, C., & Darwin, F. (1909). The foundations of The origin of species, a sketch written in 1842.
+
+- Abbott, S., & Fairbanks, D. J. (2016). Experiments on plant hybrids by Gregor Mendel. Genetics, 204(2), 407-422.
+
+- Frankel, O. H. (1974). Genetic conservation: our evolutionary responsibility. Genetics, 78(1), 53.
+
+- Frankel, O. H., & Soulé, M. E. (1981). Conservation and evolution. CUP archive. 
+
+- Soulé, M. E., & Wilcox, B. A. (Eds.). (1980). Conservation Biology. An evolutionary-ecological perspective. 
+
+
+

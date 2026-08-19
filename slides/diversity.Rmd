@@ -1,0 +1,144 @@
+---
+output: beamer_presentation
+header-includes: 
+fontsize: 10
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Assaying genetic diversity
+
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{images/genomics.jpg}
+\end{figure}  
+
+- two copies of the nuclear genome found in most cells
+- 100-1000 copies of mitochondrial genome found in most cells
+- 3-275 copies of chloroplast genome per plastid (photosynthetic organelles considered endosymbiotic cyanobacteria)
+
+(https://www.genome.gov/about-genomics/fact-sheets/A-Brief-Guide-to-Genomics). 
+
+## Technique: Protein electrophoresis
+
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{images/allozymes.jpg}
+\end{figure}  
+
+- alleles: pattern on gel lane
+- by definition, proteins are **functional** (non-neutral, i.e. under selection)
+
+(http://dx.doi.org/10.1038/238113b0). 
+
+## Technique: SSCP
+
+\begin{figure}
+\includegraphics[width = 0.45\linewidth]{images/sscp.png}
+\end{figure}  
+
+- alleles: pattern on gel lane
+- caused by differences in "single-strand conformation", i.e. how DNA bends differently with mutations  
+
+(https://doi.org/10.1038/nprot.2006.485). 
+
+## Technology: PCR
+
+\begin{figure}
+\includegraphics[width = \linewidth]{images/pcr.png}
+\end{figure}  
+
+(https://www.britannica.com/science/polymerase-chain-reaction). 
+
+## Technique: Microsatellites 
+
+\begin{figure}
+\includegraphics[width = \linewidth]{images/microsatellites.jpg}
+\end{figure}  
+
+- alleles: pattern on gel lane. 
+- almost always **neutral**. 
+
+(https://www.informatics.jax.org/silver/figures/figure8-10.shtml). 
+
+## Technology: Sanger sequencing
+
+\begin{figure}
+\includegraphics[width = 0.8\linewidth]{images/sanger.png}
+\end{figure}  
+
+- combined with PCR, alleles are typically SNPs or haplotypes. 
+(https://en.wikipedia.org/wiki/Sanger_sequencing). 
+
+## Technology: Illumina sequencing
+
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{images/illumina.png}
+\end{figure}  
+
+(https://en.wikipedia.org/wiki/Illumina_dye_sequencing). 
+(https://youtu.be/fCd6B5HRaZ8). 
+
+## Technique: RADseq 
+
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{images/radseq.jpg}
+\end{figure}  
+
+- alleles: SNPs (neutral or functional)  
+(https://en.wikipedia.org/wiki/Restriction_site_associated_DNA_markers)   
+
+## Technique: Sequence capture
+
+\begin{figure}
+\includegraphics[width = 0.8\linewidth]{images/sequence_capture.png}
+\end{figure}  
+
+- alleles: SNPs (neutral or functional). 
+(https://www.pacb.com/products-and-services/applications/targeted-sequencing/). 
+
+## Whole genome (re)sequencing 
+
+\begin{figure}
+\includegraphics[width = 0.9\linewidth]{images/wgs.jpg}
+\end{figure}  
+
+- alleles: SNPs, haplotypes, structural variants, copy number variants, etc. 
+
+## Metallic Starling (*Aplonis metallica*)
+\begin{figure}
+\includegraphics[width = \linewidth]{images/metallica.png}
+\end{figure}  
+
+## Metallic Starling (*Aplonis metallica*)
+\begin{figure}
+\includegraphics[width = \linewidth]{images/metallica_range.png}
+\end{figure}  
+
+## Singing Starling (*Aplonis cantoroides*)
+\begin{figure}
+\includegraphics[width = \linewidth]{images/cantoroides.png}
+\end{figure}  
+
+## Singing Starling (*Aplonis cantoroides*)
+
+\begin{figure}
+\includegraphics[width = \linewidth]{images/cantoroides_range.png}
+\end{figure}  
+
+## Group Questions
+
+1) Why did the authors apply a chi-squared test, and what did they learn from it?
+
+2) Why does the proportion of polymorphic proteins differ from the proportion of polymorphic loci?
+
+3) What is the observed heterozygosity of *A. metallica* at LDH-H considering only samples from Lae, Madang, and Wewak? 
+
+4) Develop a hypothesis for why there is more polymorphism in *A. metallica* based on information in the reading (or other sources)
+
+5) What is one takeaway from Figure 1?
+
+
+
+
+

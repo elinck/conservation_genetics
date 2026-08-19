@@ -1,0 +1,101 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conservation Genetics Final Exam (Optional)
+
+Name: ________________________       
+
+*Complete the following exam and turn in by the end of exam week (5:00 PM, December 12th), either in person, in my Departmental mailbox, or via Canvas or email (ethan.linck@montana.edu). You are welcome to use all resources available to you (barring AI), and discuss problems with classmates, but your answers should reflect your work alone.*
+
+1)	The upper Missouri River basin in Montana is home to the last surviving population of Arctic Grayling in the lower 48. (Bozemanite David Quammen writes about these fish in his 1996 essay *Jeremy Bentham, the Pietà, and a Precious Few Grayling*, which I encourage you to read.) Imagine you are fisheries biologist interested in comparing the genetic diversity of Montana grayling with those in Alaska. You collect fin clippings from 10 fish in the Big Hole River, and 10 in Chatanika, northeast of Fairbanks. You then genotype these samples at two loci, $A$ and $B$. In Montana you find 7 fish with the genotype $A_1B_1/A_1B_1$, 2 fish with the genotype $A_1B_2/A_1B_2$, and 1 fish with the genotype $A_1B_2/A_1B_1$. In Alaska, you find 4 fish with the genotype $A_2B_1/A_2B_1$, 1 fish with the genotype $A_1B_1/A_2B_1$, 1 fish with the genotype $A_1B_2/A_2B_2$, and 4 fish with the genotype $A_2B_2/A_2B_2$. Calculate $F_{ST}$ between Alaska and Montana, averaged across loci. Next, calculate linkage disequilibrium ($D$) between alleles $A_1$ & $B_1$ for 1) each population independently and 2) all grayling in the study lumped together. What can you conclude about the impact of admixture on linkage disequilibrium? (10 points)  
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+2) In Arctic Grayling, locus $B$ is predictive of size: $B_1B_1$ individuals average 300 mm long, $B_1B_2$ individuals average 290 mm, and $B_2B_2$ individuals average 240 mm. In order to maintain genetic diversity, managers stock the Big Hole River with a number of fish from Alaska, which come to represent 20% of the overall population and reduce the value of the inbreeding coefficient by 0.15. How would this action impact the average size of Arctic Grayling in Montana? (5 points)  
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp; 
+
+\newpage
+
+3) Select a figure from a paper we have read in class this year. Describe it in detail, and discuss its connection to the paper’s goals, methods, and whether or not it supports the authors’ conclusions. (5 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+4)	Select an equation we have covered in class. Annotate it with descriptions of all features, and describe its dynamics: how does its output (i.e., allele frequency) change as each variable is manipulated independently?  (5 points)
+
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp; 
+
+
+
