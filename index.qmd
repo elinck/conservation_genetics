@@ -41,7 +41,7 @@ Your grade will be calculated as the fraction of points earned out of a total of
 
 ## Schedule
 
-This is a maximalist version of the course syllabus (also available as a [pdf](assignments/syllabus.pdf). Expect material to be cut, not added. Slides and practice problems will be added throughout the semester.
+This is a maximalist version of the course syllabus (also available as a [pdf](assignments/syllabus.pdf)). Expect material to be cut, not added. Slides and practice problems will be added throughout the semester.
 
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | Week                | Topics                                  | Assignments                                                                                         |
