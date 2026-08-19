@@ -2,6 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+.ipynb_checkpoints
 2023_materials/
 2024_materials/
 2025_materials/
@@ -10,6 +12,6 @@ notes/
 popgen_congen_notes/
 old_materials/
 assignments/*key*
-
+**/.ipynb_checkpoints/
 /.quarto/
 **/*.quarto_ipynb
