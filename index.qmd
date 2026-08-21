@@ -72,15 +72,18 @@ This is a maximalist version of the course syllabus (also available as a [pdf](a
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/12 - 10/16       | - Genetic Drift                         | - [Genetic Drift (T)](https://elinck.org/popgen_congen_notes/drift.html)                            |
 |                     |                                         | - [Homework #5 (due 10/20)](assignments/homework_5.pdf)                                             |
+|                     |                                         | - [Luikhart & Cornuet 1998 (TR)](papers/luikheart_cornuet_1998.pdf)
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/19 - 10/23       | - Intro to Data Analysis                | - [Intro to Python](https://github.com/elinck/conservation_genetics/tree/main/scripts)              |
 |                     |                                         | - **Quiz #2** (10/22; *Quantitative Genetics* through *Equilibria*)                                 |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/26 - 10/30       | - Effective Pop. Size ($N_e$)           | - [Effective Population Size (T)](https://elinck.org/popgen_congen_notes/ne.html)                   |
 |                     |                                         | - [The Coalescent (TR)](https://elinck.org/popgen_congen_notes/coalescent.html)                     |
+|                     |                                         | - [Miller & Waits 2003 (TR)](papers/miller_waits_2002.pdf)
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 11/2 - 11/6         | - Inbreeding and its consequences       | - [Inbreeding and Inbreeding Depression (T)](https://elinck.org/popgen_congen_notes/inbreeding.html)|
 |                     |                                         | - [Homework #6 (due 11/10)](assignments/homework_6.pdf)                                             |
+|                     |                                         | - [Keller et al. 1994 (TR)](papers/miller_waits_2002.pdf)
 |                     |                                         | - [Intro to `scikit-allel`](https://github.com/elinck/conservation_genetics/tree/main/scripts)      |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 11/9 - 11/13        | - Population subdivision                | - [Population Subdivision (T)](https://elinck.org/popgen_congen_notes/fst.html)                     |
@@ -92,14 +95,14 @@ This is a maximalist version of the course syllabus (also available as a [pdf](a
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 11/23 - 11/27       | - Fall Break                            |                                                                                                     |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
-| 11/30 - 12/4        | - Conservation Units                    | - [Taxonomy, Systematics, and Management Units](https://elinck.org/popgen_congen_notes/units.html)  |
-|                     |                                         | - [Funk et al. 2012](papers/funk_et_al_2012.pdf)                                                    |
+| 11/30 - 12/4        | - Conservation Units                    | - [Taxonomy, Systematics, & Management Units (T)](https://elinck.org/popgen_congen_notes/units.html)|
+|                     |                                         | - [Funk et al. 2012 (TR)](papers/funk_et_al_2012.pdf)                                               |
 |                     |                                         | - [Final Project (due 12/17)](https://github.com/elinck/conservation_genetics/tree/main/scripts)    |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
-| 12/7 - 12/11        | - Hybridization                         | - [Hybridization](https://elinck.org/popgen_congen_notes/hybridization.html)                        |
+| 12/7 - 12/11        | - Hybridization                         | - [Hybridization (T)](https://elinck.org/popgen_congen_notes/hybridization.html)                    |
 |                     |                                         | - [Homework #8 (due 12/14)](assignments/homework_8.pdf)                                             |
-|                     |                                         | - [Allendorf et al. 2004](papers/allendorf_et_al_2004.pdf)                                          |
-|                     |                                         | - [Campton & Kaeding 2005](papers/campton_kaeding_2005.pdf)                                         |
+|                     |                                         | - [Allendorf et al. 2004 (TR)](papers/allendorf_et_al_2004.pdf)                                     |
+|                     |                                         | - [Campton & Kaeding 2005 (TR)](papers/campton_kaeding_2005.pdf)                                    |
 |                     |                                         | - **Quiz #4** (12/10; *Subdivision* through *Hybridization*)                                        |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 12/14 - 12/18       | - Exam Week                             | - **Final Exam** (12/15, 1000-1150 hrs)                                                             |
