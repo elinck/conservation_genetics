@@ -53,7 +53,7 @@ This is a maximalist version of the course syllabus (also available as a [pdf](a
 |                     | - Genetic Diversity                     | - [Corbin et al. 1974 (TR)](papers/corbin_et_al_1974.pdf)                                           |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 9/7 - 9/11          | - Hardy Weinberg Principle              | - [Hardy-Weinberg Principle (T)](https://elinck.org/popgen_congen_notes/hwe.html)                   |
-|                     |                                         | - [Schmutz & Schmutz 1981 (TR)](papers/schmutz_schmutz_1981.pdf)                                    |
+|                     |                                         | - [Schmutz & Schmutz 1981 (TR)](papers/schmutz_schmutz_1981.pdf) (*no class*)                       |  
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 9/14 - 9/18         | - Linkage Disequilibrium                | - [Linkage Disequilibrium (T)](https://elinck.org/popgen_congen_notes/ld.html)                      |
 |                     |                                         | - [Homework #1 (due 9/22)](assignments/homework_1.pdf)                                              |
@@ -68,7 +68,7 @@ This is a maximalist version of the course syllabus (also available as a [pdf](a
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/5 - 10/9         | - Migration and Mutation Equilibria     | - [Mutation, migration, & selection (T)](https://elinck.org/popgen_congen_notes/more_selection.html)|
 |                     |                                         | - [Homework #4 (due 10/13)](assignments/homework_4.pdf)                                             |
-|                     |                                         | - [Cheviron & Brumfield 2009 (TR)](papers/cheviron_brumfield_2009.pdf)                              |
+|                     |                                         | - [Cheviron & Brumfield 2009 (TR)](papers/cheviron_brumfield_2009.pdf) (*no class*)                 |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/12 - 10/16       | - Genetic Drift                         | - [Genetic Drift (T)](https://elinck.org/popgen_congen_notes/drift.html)                            |
 |                     |                                         | - [Homework #5 (due 10/20)](assignments/homework_5.pdf)                                             |
