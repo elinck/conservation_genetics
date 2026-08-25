@@ -9,7 +9,7 @@ project:
     - "!popgen_congen_notes/"
 
 website:
-  title: "BIOB480/BIOE538: Conservation Genetics"
+  title: "BIOB480 / BIOE548: Conservation Genetics"
   navbar:
     right:
       - text: "Home"
