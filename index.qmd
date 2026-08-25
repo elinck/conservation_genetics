@@ -72,22 +72,22 @@ This is a maximalist version of the course syllabus (also available as a [pdf](a
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/12 - 10/16       | - Genetic Drift                         | - [Genetic Drift (T)](https://elinck.org/popgen_congen_notes/drift.html)                            |
 |                     |                                         | - [Homework #5 (due 10/20)](assignments/homework_5.pdf)                                             |
-|                     |                                         | - [Luikhart & Cornuet 1998 (TR)](papers/luikheart_cornuet_1998.pdf)
+|                     |                                         | - [Luikhart & Cornuet 1998 (TR)](papers/luikheart_cornuet_1998.pdf)                                 |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/19 - 10/23       | - Intro to Data Analysis                | - [Intro to Python](https://github.com/elinck/conservation_genetics/tree/main/scripts)              |
 |                     |                                         | - **Quiz #2** (10/22; *Quantitative Genetics* through *Equilibria*)                                 |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/26 - 10/30       | - Effective Pop. Size ($N_e$)           | - [Effective Population Size (T)](https://elinck.org/popgen_congen_notes/ne.html)                   |
 |                     |                                         | - [The Coalescent (TR)](https://elinck.org/popgen_congen_notes/coalescent.html)                     |
-|                     |                                         | - [Miller & Waits 2003 (TR)](papers/miller_waits_2002.pdf)
+|                     |                                         | - [Miller & Waits 2003 (TR)](papers/miller_waits_2002.pdf)                                          |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 11/2 - 11/6         | - Inbreeding and its consequences       | - [Inbreeding and Inbreeding Depression (T)](https://elinck.org/popgen_congen_notes/inbreeding.html)|
 |                     |                                         | - [Homework #6 (due 11/10)](assignments/homework_6.pdf)                                             |
-|                     |                                         | - [Keller et al. 1994 (TR)](papers/miller_waits_2002.pdf)
+|                     |                                         | - [Keller et al. 1994 (TR)](papers/miller_waits_2002.pdf)                                           |
 |                     |                                         | - [Intro to `scikit-allel`](https://github.com/elinck/conservation_genetics/tree/main/scripts)      |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 11/9 - 11/13        | - Population subdivision                | - [Population Subdivision (T)](https://elinck.org/popgen_congen_notes/fst.html)                     |
-|                     |                                         | - [Homework #7](assignments/homework_7.pdf)                                                         |
+|                     |                                         | - [Homework #7 (due 11/17)](assignments/homework_7.pdf)                                             |
 |                     |                                         | - [Mills & Allendorf 1996 (TR)](papers/mills_allendorf_1996.pdf)                                    |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 11/16 - 11/20       | - Genetic Viability                     | - [Genetic Viability (T)](https://elinck.org/popgen_congen_notes/viability.html)                    |
@@ -100,7 +100,7 @@ This is a maximalist version of the course syllabus (also available as a [pdf](a
 |                     |                                         | - [Final Project (due 12/17)](https://github.com/elinck/conservation_genetics/tree/main/scripts)    |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 12/7 - 12/11        | - Hybridization                         | - [Hybridization (T)](https://elinck.org/popgen_congen_notes/hybridization.html)                    |
-|                     |                                         | - [Homework #8 (due 12/14)](assignments/homework_8.pdf)                                             |
+|                     |                                         | - [Homework #8 (due 12/15)](assignments/homework_8.pdf)                                             |
 |                     |                                         | - [Allendorf et al. 2004 (TR)](papers/allendorf_et_al_2004.pdf)                                     |
 |                     |                                         | - [Campton & Kaeding 2005 (TR)](papers/campton_kaeding_2005.pdf)                                    |
 |                     |                                         | - **Quiz #4** (12/10; *Subdivision* through *Hybridization*)                                        |
