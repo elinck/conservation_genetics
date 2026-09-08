@@ -1,0 +1,45 @@
+---
+  output: pdf_document
+  header-includes:
+  - \usepackage{caption}
+  - \captionsetup[figure]{labelformat=empty}
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Conservation Genetics Practice Problems #1
+
+1) What was the proportion of polymorphic loci reported in Corbin et al. 1974?  
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+2) Four microsatellite loci are used to describe population genetic structure in Gunnison Sage-grouse. After genotyping 25 individuals, the following alleles are present:  
+
+   - Microsatellite 1: ACTACTACT, ACTACT
+   - Microsatellite 2: GCAGCA, GCAGCAGCA, GCAGCAGCA, GCAGCAGCAGCA
+   - Microsatellite 3: CGCGCG, CGCGCGCG
+   - Microsatellite 4: ACGC, ACGCACGC
+
+   What is the average allelic diversity of this sample?  
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+3) The same population is later studied using sequences for three nuclear introns. At these loci, 5/25, 0/25, and 10/25 individuals are heterozygous. What is the average heterozygosity of the sample?  
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+4) What are the expected genotype frequencies for a *triallelic* locus $A$ (where $f(A_1)=p$, $f(A_2)=q$, and $f(A_3)=r$) after one generation of random mating? (Your answer should be algebraic.)  
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+5) Samples ($n=20$) from a population of bitterroot (*Lewisia rediviva*) are genotyped at a diallelic locus $B$, with alleles $B_1$ and $B_2$. 10 individuals have genotype $B_1B_1$, 8 individuals have the genotype $B_1B_2$, and 2 individuals have the genotype $B_2B_2$. Is this population under Hardy-Weinberg Equilibrium? If not, what is the probability of getting genotype frequency deviations as extreme as those seen in your sample assuming the population really *is* under HWE?  

@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Chi-Squared Distribution Table   
 
 \begin{figure}
-\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/chi-square-table.png}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/old_materials/2025_materials/images/chi-square-table.png}
 \end{figure}  
 
 Degrees of freedom = number of parameters that are free to vary. *p* + *q* = 1, so *df*=1. 
@@ -32,7 +32,7 @@ where *k* = degrees of freedom and *x* is the test statistic (i.e., what you use
 Probability Density Function:
 
 \begin{figure}
-\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/chi_square.png}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/old_materials/2025_materials/images/chi_square.png}
 \end{figure}  
 
 ## Ferruginous Hawks

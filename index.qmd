@@ -56,6 +56,8 @@ This is a maximalist version of the course syllabus (also available as a [pdf](a
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 9/7 - 9/11          | - Hardy Weinberg Principle              | - [Hardy-Weinberg Principle (T)](https://elinck.org/popgen_congen_notes/hwe.html)                   |
 |                     |                                         | - [Schmutz & Schmutz 1981 (TR)](papers/schmutz_schmutz_1981.pdf) (*no class*)                       |  
+|                     |                                         | - [HWE slides](slides/hwe.pdf)                                                                      |  
+|                     |                                         | - [Practice Problems #1](assignments/practice_problems_1.pdf)                                       |  
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 9/14 - 9/18         | - Linkage Disequilibrium                | - [Linkage Disequilibrium (T)](https://elinck.org/popgen_congen_notes/ld.html)                      |
 |                     |                                         | - [Homework #1 (due 9/22)](assignments/homework_1.pdf)                                              |
