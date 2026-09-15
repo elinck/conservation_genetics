@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## LD Decay through time
 
-```{r, message=FALSE, echo=FALSE, fig.height=4, fig.width=6}
+```{r, message=FALSE, echo=FALSE, fig.height=4, fig.width=6, warning=FALSE}
 library(ggplot2)
 
 # assign different values of c and D_0
@@ -43,7 +43,7 @@ p1
 link: https://cjbattey.shinyapps.io/LDsim/
 
 \begin{figure}
-\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/ldsim.png}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/old_materials/2025_materials/images/ldsim.png}
 \end{figure}  
 
 ## LDSim Activity

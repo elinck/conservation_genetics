@@ -60,6 +60,7 @@ This is a maximalist version of the course syllabus (also available as a [pdf](a
 |                     |                                         | - [Practice Problems #1](assignments/practice_problems_1.pdf)                                       |  
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 9/14 - 9/18         | - Linkage Disequilibrium                | - [Linkage Disequilibrium (T)](https://elinck.org/popgen_congen_notes/ld.html)                      |
+|                     |                                         | - [LD slides](slides/ld.pdf)                                                                        |  
 |                     |                                         | - [Homework #1 (due 9/22)](assignments/homework_1.pdf)                                              |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 9/21 - 9/25         | - Quantitative Genetics                 | - [Quantitative Genetics (T)](https://elinck.org/popgen_congen_notes/quant.html)                    |
