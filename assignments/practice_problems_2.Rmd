@@ -1,0 +1,43 @@
+---
+  output: pdf_document
+  header-includes:
+  - \usepackage{caption}
+  - \captionsetup[figure]{labelformat=empty}
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Conservation Genetics Practice Problems #2
+
+1) List three factors that can cause linkage disequilibrium.
+
+&nbsp;  
+&nbsp;  
+&nbsp;   
+
+2) Assume a population is in Hardy-Weinberg Equilibrium at two biallelic loci---A and B---where alleles $A_1$ and $B_1$ are on the same chromosome and perfectly associated at time $t=0$, and alleles $A_2$ and $B_2$ are on the same chromosome and perfectly associated at time $t=0$. After 3 generations of meiosis with a recombination rate of $c=0.2$, which of the following statements is true?
+
+   a) allele frequencies have changed but haplotype frequencies have not; evolution has occured 
+   b) allele frequencies have changed but haplotype frequencies have not; evolution has not occured 
+   c) haplotype frequencies have changed but allele frequencies have not; evolution has occured
+   d) haplotype frequencies have changed but allele frequencies have not; evolution has not occured
+&nbsp;  
+&nbsp;  
+&nbsp;   
+3) A sample ($n=20$) from a population of small wriggly critters is genotyped at biallelic loci $A$ and $B$, producing the following haplotype counts: $A_1B_1$=5, $A_1B_2$=2, $A_2B_1$=3, and $A_2B_2$=5. Using these data, calculate $D$.
+&nbsp;  
+&nbsp;  
+&nbsp;   
+4) Why is the "equilibrium" in linkage disequilibrium different than the "equilibrium" in Hardy-Weinberg Equilibrium?
+&nbsp;  
+&nbsp;  
+&nbsp;   
+5) A sample ($n=10$) of a population of large sedate critters is genotyped at biallelic loci $A$ and $B$, producing the following individual genotypes: $A_1A_1$/$B_1B_1$ (3), $A_1A_2$/$B_1B_2$ (3), $A_2A_2$/$B_1B_1$ (1), $A_1A_2$/$B_2B_1$ (3). Evaluate the following statements:
+
+   a) This population is in Hardy-Weinberg Equilibrium at locus $A$ (**T**/**F**)
+   b) This population is in Hardy-Weinberg Equilibrium at locus $B$ (**T**/**F**)
+   c) Alleles at locus $A$ and $B$ assort independently (**T**/**F**)
+
+
