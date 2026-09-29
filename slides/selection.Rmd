@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Natural selection in Threespine sticklebacks
 
 \begin{figure}
-\includegraphics[width = \linewidth]{images/schluter.png}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/old_materials/2025_materials/images/schluter.png}. 
 \end{figure}  
 
 ## Selection at a biallelic locus
@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 link: https://phytools.shinyapps.io/selection/
 
 \begin{figure}
-\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/2024_materials/images/selection_app.png}
+\includegraphics[width = \linewidth]{/Users/k14m234/Dropbox/teaching/congen/old_materials/2025_materials/images/selection_app.png}  
 \end{figure}  
 
 ## Selection Activity
