@@ -74,7 +74,7 @@ This is a maximalist version of the course syllabus (also available as a [pdf](a
 |                     |                                         | - [Nachman et al. 2003 (TR)](papers/nachman_et_al_2003.pdf)                                         |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/5 - 10/9         | - Migration and Mutation Equilibria     | - [Mutation, migration, & selection (T)](https://elinck.org/popgen_congen_notes/more_selection.html)|
-|                     |                                         | - [Homework #4 (due 10/13)](assignments/homework_4.pdf)                                             |
+|                     |                                         | - [Homework #4 (due 10/15)](assignments/homework_4.pdf)                                             |
 |                     |                                         | - [Cheviron & Brumfield 2009 (TR)](papers/cheviron_brumfield_2009.pdf) (*no class*)                 |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/12 - 10/16       | - Genetic Drift                         | - [Genetic Drift (T)](https://elinck.org/popgen_congen_notes/drift.html)                            |
