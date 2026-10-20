@@ -83,7 +83,7 @@ This is a maximalist version of the course syllabus (also available as a [pdf](a
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/12 - 10/16       | - Genetic Drift                         | - [Genetic Drift (T)](https://elinck.org/popgen_congen_notes/drift.html)                            |
 |                     |                                         | - [Drift slides](slides/drift.pdf)                                                                  |
-|                     |                                         | - [Homework #5 (due 10/28)](assignments/homework_5.pdf)                                             |
+|                     |                                         | - [Homework #5 (due 10/29)](assignments/homework_5.pdf)                                             |
 |                     |                                         | - [Practice Problems #6](assignments/practice_problems_6.pdf)                                       |  
 |                     |                                         | - [Luikhart & Cornuet 1998 (TR)](papers/luikheart_cornuet_1998.pdf)                                 |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
