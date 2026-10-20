@@ -1,0 +1,45 @@
+---
+  output: pdf_document
+  header-includes:
+  - \usepackage{caption}
+  - \captionsetup[figure]{labelformat=empty}
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Conservation Genetics Practice Problems #5
+
+1) What will the equilibrium allele frequencies be at a biallelic locus with a mutation rate of $\mu=5*10^{-7}$ from $A_1$ to $A_2$ and $v=1*10^{-8}$ from $A_2$ to $A_1$?  
+ 
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+2) Assuming a per-base mutation rate of $1*10^-7$, what is the probability there will be no new single-nucleotide mutations in a new generation of 20 diploid organisms with 100,000 base genomes?
+ 
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+3) Solve for $\mu$ if the frequency of a recessive deleterious allele ($s=0.1$) at mutation-selection equilibrium is 0.15. 
+ 
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+4) Assuming a one-way input of migrants at rate $m$ with a recessive allele at frequency $q_m$ into a focal population where the allele is originally found at a frequency $q_0$, what will happen to the per-generation change in the frequency of $q$ (i.e., $\Delta q$) over time?
+ 
+   a) it will stay constant, because $m$ does not change
+   b) it will increase, as more copies of $q$ are found in the population
+   c) it will decline, as the frequencies of $q$ in the migrant and focal popualtion become more similar
+   d) there is not enouhg information to say
+   
+&nbsp;  
+&nbsp;
+
+5) What evolutionary processes produce a cline in allele frequencies, and why?   
+
+
+

@@ -66,19 +66,25 @@ This is a maximalist version of the course syllabus (also available as a [pdf](a
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 9/21 - 9/25         | - Quantitative Genetics                 | - [Quantitative Genetics (T)](https://elinck.org/popgen_congen_notes/quant.html)                    |
 |                     |                                         | - [Homework #2 (due 9/29)](assignments/homework_2.pdf)                                              |
+|                     |                                         | - [Practice Problems #3](assignments/practice_problems_3.pdf)                                       |  
 |                     |                                         | - **Quiz #1** (9/24; *History* through *Linkage Disequilibrium*)                                    |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 9/28 - 10/2         | - Natural Selection                     | - [Natural Selection (T)](https://elinck.org/popgen_congen_notes/selection.html)                    |
 |                     |                                         | - [Selection slides](slides/selection.pdf)                                                          |
 |                     |                                         | - [Homework #3 (due 10/6)](assignments/homework_3.pdf)                                              |
+|                     |                                         | - [Practice Problems #4](assignments/practice_problems_4.pdf)                                       |  
 |                     |                                         | - [Nachman et al. 2003 (TR)](papers/nachman_et_al_2003.pdf)                                         |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/5 - 10/9         | - Migration and Mutation Equilibria     | - [Mutation, migration, & selection (T)](https://elinck.org/popgen_congen_notes/more_selection.html)|
+|                     |                                         | - [Cline slides](slides/clines.pdf)                                                                 |
 |                     |                                         | - [Homework #4 (due 10/15)](assignments/homework_4.pdf)                                             |
+|                     |                                         | - [Practice Problems #5](assignments/practice_problems_5.pdf)                                       |  
 |                     |                                         | - [Cheviron & Brumfield 2009 (TR)](papers/cheviron_brumfield_2009.pdf) (*no class*)                 |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/12 - 10/16       | - Genetic Drift                         | - [Genetic Drift (T)](https://elinck.org/popgen_congen_notes/drift.html)                            |
-|                     |                                         | - [Homework #5 (due 10/20)](assignments/homework_5.pdf)                                             |
+|                     |                                         | - [Drift slides](slides/drift.pdf)                                                                  |
+|                     |                                         | - [Homework #5 (due 10/28)](assignments/homework_5.pdf)                                             |
+|                     |                                         | - [Practice Problems #6](assignments/practice_problems_6.pdf)                                       |  
 |                     |                                         | - [Luikhart & Cornuet 1998 (TR)](papers/luikheart_cornuet_1998.pdf)                                 |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 10/19 - 10/23       | - Intro to Data Analysis                | - [Intro to Python](https://github.com/elinck/conservation_genetics/tree/main/scripts)              |

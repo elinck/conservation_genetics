@@ -1,0 +1,41 @@
+---
+  output: pdf_document
+  header-includes:
+  - \usepackage{caption}
+  - \captionsetup[figure]{labelformat=empty}
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Conservation Genetics Practice Problems #4
+
+
+1) Are the models of allele frequency change we discussed in class determinist or stochastic?
+ 
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+2) Recall that the change in frequency ($q$) of a recessive allele $A_2$ under complete dominance and negative selection is $\Delta q = \frac{-spq^2}{1-sq}$. Which coefficient values will lead to greatest single-generation decrease in $A_2$?
+
+   a) $s$=0.1, $q$=0.5, $p$=0.5 
+   b) $s$=0.1, $q$=0.1, $p$=0.9 
+   c) $s$=0.01, $q$=0.1, $p$=0.9 
+   d) $s$=0.01, $q$=0.01, $p$=0.99 
+
+3) Suppose the frequency of a deleterious allele $q$ under incomplete dominance associated with increased susceptibility of blister rust in Whitebark Pine drops from 0.1 to 0.07 from generation $t=1$ to $t=2$. Solve for $\Delta p$. 
+ 
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+4) Recall that the change in frequency ($q$) of a recessive allele $A_2$ under complete dominance and negative selection is $\Delta q = \frac{-spq^2}{1-sq}$. Which coefficient values will lead to greatest single-generation decrease in $A_2$?
+
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+5) What mode of inheritence is modeled by $h=0.7$?  
+

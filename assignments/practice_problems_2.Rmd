@@ -19,10 +19,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 2) Assume a population is in Hardy-Weinberg Equilibrium at two biallelic loci---A and B---where alleles $A_1$ and $B_1$ are on the same chromosome and perfectly associated at time $t=0$, and alleles $A_2$ and $B_2$ are on the same chromosome and perfectly associated at time $t=0$. After 3 generations of meiosis with a recombination rate of $c=0.2$, which of the following statements is true?
 
-   a) allele frequencies have changed but haplotype frequencies have not; evolution has occured 
-   b) allele frequencies have changed but haplotype frequencies have not; evolution has not occured 
-   c) haplotype frequencies have changed but allele frequencies have not; evolution has occured
-   d) haplotype frequencies have changed but allele frequencies have not; evolution has not occured
+   a) allele frequencies have changed but haplotype frequencies have not; evolution has occurred 
+   b) allele frequencies have changed but haplotype frequencies have not; evolution has not occurred 
+   c) haplotype frequencies have changed but allele frequencies have not; evolution has occurred
+   d) haplotype frequencies have changed but allele frequencies have not; evolution has not occurred
 &nbsp;  
 &nbsp;  
 &nbsp;   

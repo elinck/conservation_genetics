@@ -1,0 +1,39 @@
+---
+  output: pdf_document
+  header-includes:
+  - \usepackage{caption}
+  - \captionsetup[figure]{labelformat=empty}
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Conservation Genetics Practice Problems #6
+
+1) Why would an infinite population have no genetic drift?
+ 
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+2) A rare salamander species (diploid, sexually reproducing) loses 1% of its original heterogeneity in a one-generation population crash. Estimate the number of salamanders during this bottleneck. 
+ 
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+3) Explain each variable in the formula for the binomial distribution and how it relates to genetic drift over one generation at a biallelic locus. 
+ 
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+4) What is the probability an allele at frequency 0.5 will be lost in one generation of random mating in a population of constant size $2N=4$?
+ 
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+5) Recall the variance of the bionimal distirbution is given by $\sigma = \frac{pq}{2N}$. If genetic drift is maximized when the numerator is greatest, e.g. when $p=q=0.5$, why are rare alleles more likely to be lost than common alleles?
+  
