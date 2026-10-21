@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp;  
 &nbsp;
 
-2) Assuming a per-base mutation rate of $1*10^-7$, what is the probability there will be no new single-nucleotide mutations in a new generation of 20 diploid organisms with 100,000 base genomes?
+2) Assuming a per-base mutation rate of $1*10^{-7}$, what is the probability there will be no new single-nucleotide mutations in a new generation of 20 diploid organisms with 100,000 base genomes?
  
 &nbsp;  
 &nbsp;  
@@ -34,7 +34,7 @@ knitr::opts_chunk$set(echo = TRUE)
    a) it will stay constant, because $m$ does not change
    b) it will increase, as more copies of $q$ are found in the population
    c) it will decline, as the frequencies of $q$ in the migrant and focal popualtion become more similar
-   d) there is not enouhg information to say
+   d) there is not enough information to say
    
 &nbsp;  
 &nbsp;

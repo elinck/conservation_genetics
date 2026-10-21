@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Conservation Genetics Practice Problems #4
 
 
-1) Are the models of allele frequency change we discussed in class determinist or stochastic?
+1) Are the models of allele frequency change we discussed in class deterministic or stochastic?
  
 &nbsp;  
 &nbsp;  
@@ -31,11 +31,10 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp;  
 &nbsp;
 
-4) Recall that the change in frequency ($q$) of a recessive allele $A_2$ under complete dominance and negative selection is $\Delta q = \frac{-spq^2}{1-sq}$. Which coefficient values will lead to greatest single-generation decrease in $A_2$?
-
+4) What mode of inheritence is modeled by $h=0.7$?  
+ 
 &nbsp;  
 &nbsp;  
 &nbsp;
 
-5) What mode of inheritence is modeled by $h=0.7$?  
-
+5) Under complete dominance, what selection coefficient indicates the recessive homozygote has a relative fitness of $w(aa)=0.98$?  

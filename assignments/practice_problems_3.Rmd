@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp;  
 &nbsp;
 
-4) What is the heritability of a trait that has a covariance in parent-offspring values of $COV_{PO}=$15 and overall variance of $V_P$=60?
+4) What is the heritability of a trait that has a covariance in parent-offspring values of $COV_{PO}$=15 and overall variance of $V_P$=60?
  
 &nbsp;  
 &nbsp;  
