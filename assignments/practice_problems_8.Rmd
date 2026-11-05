@@ -1,0 +1,25 @@
+---
+  output: pdf_document
+  header-includes:
+  - \usepackage{caption}
+  - \captionsetup[figure]{labelformat=empty}
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Conservation Genetics Practice Problems #8
+
+1) Calculate the inbreeding coefficient for $X$ given the following pedigree:
+
+\begin{figure}
+\includegraphics[width = 0.7\linewidth]{images/pedigree2.png}
+\end{figure}  
+
+&nbsp;  
+&nbsp;  
+&nbsp;
+
+
+2) Despite the best efforts of your loved ones, you have decided to pursue a Ph.D. on the consequences of founder effects (population bottlenecks associated with colonization of new environments) in three-spined stickleback. Assume lateral plate number is under simple genetic control, with dominant homozygotes having 3 plates, heterozygotes 7 plates, and recessive homozygotes 8 plates. Calculate the expected population-wide mean plate number in an outcrossed population ($M_O$) and an inbred population ($M_F$) if $F=0.1$. (Remember that $a$, $d$, and $-a$ ar deviations from a midpoint and must be rescaled to get actual trait values.)

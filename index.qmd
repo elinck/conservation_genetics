@@ -97,10 +97,11 @@ This is a maximalist version of the course syllabus (also available as a [pdf](a
 | 11/2 - 11/6         | - Inbreeding and its consequences       | - [Inbreeding and Inbreeding Depression (T)](https://elinck.org/popgen_congen_notes/inbreeding.html)|
 |                     |                                         | - [Homework #6 (due 11/10)](assignments/homework_6.pdf)                                             |
 |                     |                                         | - [Keller et al. 1994 (TR)](papers/keller_et_al_1994.pdf)                                           |
-|                     |                                         | - [Intro to `scikit-allel`](https://github.com/elinck/conservation_genetics/tree/main/scripts)      |
+|                     |                                         | - [Practice Problems #8](assignments/practice_problems_8.pdf)                                       |  
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 11/9 - 11/13        | - Population subdivision                | - [Population Subdivision (T)](https://elinck.org/popgen_congen_notes/fst.html)                     |
 |                     |                                         | - [Homework #7 (due 11/17)](assignments/homework_7.pdf)                                             |
+|                     |                                         | - [Intro to `scikit-allel`](https://github.com/elinck/conservation_genetics/tree/main/scripts)      |
 |                     |                                         | - [Mills & Allendorf 1996 (TR)](papers/mills_allendorf_1996.pdf)                                    |
 +---------------------+-----------------------------------------+-----------------------------------------------------------------------------------------------------+
 | 11/16 - 11/20       | - Genetic Viability                     | - [Genetic Viability (T)](https://elinck.org/popgen_congen_notes/viability.html)                    |
