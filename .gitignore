@@ -16,3 +16,4 @@ assignments/*key*
 /.quarto/
 **/*.quarto_ipynb
 slides/images/
+assignments/images/
